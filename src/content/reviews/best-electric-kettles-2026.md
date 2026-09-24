@@ -6,7 +6,7 @@ date: 2026-09-24
 author: "Ethan Carter"
 ---
 
-![Best Electric Kettles 2026 — Six picks reviewed, independent editorial](https://placehold.co/1200x600/1a1a1a/ffffff/png?text=Best+Electric+Kettles+2026)
+![Best Electric Kettles 2026 — Six picks reviewed, independent editorial](/images/reviews/electric-kettles/hero.jpg)
 
 An electric kettle boils water faster than a stovetop kettle, shuts off automatically, and frees up your cooktop. The category has matured into a real market — variable-temperature kettles for pour-over, gooseneck spouts for manual brewing, and glass/stainless bodies for different aesthetics. We compared the best electric kettles of 2026 across boil speed, capacity, temperature control, and value.
 
@@ -27,7 +27,7 @@ This article draws on independent published testing, manufacturer specifications
 
 ### Best overall: Stagg EKG Pro Electric Kettle
 
-![Stagg EKG Pro Electric Kettle — Best Overall, 9.4/10](https://placehold.co/600x450/2C5F8D/ffffff/png?text=Stagg+EKG+Pro%0A9.4/10)
+![Stagg EKG Pro Electric Kettle — Best Overall, 9.4/10](/images/reviews/electric-kettles/pick-1.jpg)
 
 The Stagg EKG Pro is the electric kettle we'd buy with our own money if we were replacing our current one. Variable temperature control from 105°F to 212°F in 1°F increments, gooseneck spout for pour-over, and a PID controller that holds temperature precisely. Fellow (the brand) built the Stagg line for coffee enthusiasts, and the build quality is consistent across aggregated buyer feedback.
 
@@ -49,7 +49,7 @@ Cons
 
 ### Best programmable: Cuisinart CPK-17 PerfecTemp
 
-![Cuisinart CPK-17 PerfecTemp — Best Programmable, 9.2/10](https://placehold.co/600x450/C8102E/ffffff/png?text=Cuisinart+CPK-17%0A9.2/10)
+![Cuisinart CPK-17 PerfecTemp — Best Programmable, 9.2/10](/images/reviews/electric-kettles/pick-2.jpg)
 
 For a full-size programmable kettle with six preset temperatures, the Cuisinart CPK-17 PerfecTemp is the strongest pick. 1.7-liter capacity, six preset temperatures for different teas and coffee, 30-minute keep-warm function, and a blue LED indicator. Cuisinart's build quality is consistent across verified-buyer feedback.
 
@@ -71,7 +71,7 @@ Cons
 
 ### Best glass: OXO Brew Cordless Glass Kettle
 
-![OXO Brew Cordless Glass Kettle — Best Glass, 9.0/10](https://placehold.co/600x450/6B7280/ffffff/png?text=OXO+Brew+Glass%0A9.0/10)
+![OXO Brew Cordless Glass Kettle — Best Glass, 9.0/10](/images/reviews/electric-kettles/pick-3.jpg)
 
 For a glass kettle with reliable performance, the OXO Brew Cordless Glass Kettle is the strongest pick. 1.7-liter capacity, stainless steel bottom, and a soft-open lid that prevents splashing. OXO's reputation for build quality is real, and the brand is consistently cited in published guides.
 
@@ -93,7 +93,7 @@ Cons
 
 ### Best budget: Hamilton Beach 1.7L Electric Kettle
 
-![Hamilton Beach 1.7L Electric Kettle — Best Budget, 9.0/10](https://placehold.co/600x450/2E7D32/ffffff/png?text=Hamilton+Beach+1.7L%0A9.0/10)
+![Hamilton Beach 1.7L Electric Kettle — Best Budget, 9.0/10](/images/reviews/electric-kettles/pick-4.jpg)
 
 For an electric kettle that boils water reliably at the lowest price, the Hamilton Beach 1.7L is the strongest pick. 1.7-liter capacity, simple on/off switch, auto-shutoff, and a removable mesh filter. It is not the most feature-rich, but at the price it is hard to argue with.
 
@@ -115,7 +115,7 @@ Cons
 
 ### Best for pour-over: Bonavita Connoisseur 1.0L
 
-![Bonavita Connoisseur 1.0L — Best for Pour-Over, 9.2/10](https://placehold.co/600x450/2C5F8D/ffffff/png?text=Bonavita+Connoisseur%0A9.2/10)
+![Bonavita Connoisseur 1.0L — Best for Pour-Over, 9.2/10](/images/reviews/electric-kettles/pick-5.jpg)
 
 For pour-over enthusiasts on a budget, the Bonavita Connoisseur 1.0L is the strongest pick. Gooseneck spout, 1,000 W heating element, and pre-set temperature for coffee. It is not as precise as the Stagg EKG Pro, but at half the price it is hard to argue with for serious pour-over use.
 
@@ -137,7 +137,7 @@ Cons
 
 ### Premium pick: Breville IQ Electric Kettle
 
-![Breville IQ Electric Kettle — Premium Pick, 8.8/10](https://placehold.co/600x450/2C5F8D/ffffff/png?text=Breville+IQ%0A8.8/10)
+![Breville IQ Electric Kettle — Premium Pick, 8.8/10](/images/reviews/electric-kettles/pick-6.jpg)
 
 For premium build quality with five temperature presets, the Breville IQ Electric Kettle is the strongest pick. 1.7-liter capacity, five preset temperatures, 20-minute keep-warm function, and a soft-open lid. Breville's build quality is consistent across aggregated buyer feedback, and the brand is a trusted name in kitchen appliances.
 
