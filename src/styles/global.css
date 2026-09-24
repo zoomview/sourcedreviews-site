@@ -230,13 +230,12 @@ a:hover { color: var(--color-accent); }
   color: var(--color-muted);
   font-size: 0.93rem;
   margin-bottom: 0.85rem;
-  flex: 1;
   line-height: 1.55;
 }
 .article-card__meta {
   color: var(--color-muted);
   font-size: 0.83rem;
-  margin: 0;
+  margin-top: auto;
 }
 
 /* Featured grid variants */
