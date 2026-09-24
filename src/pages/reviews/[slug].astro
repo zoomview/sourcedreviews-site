@@ -86,7 +86,7 @@ const jsonLd = {
     },
     {
       '@type': 'Person',
-      '@id': new URL('/authors/#daniel-reeves', Astro.site).toString(),
+      '@id': new URL(`/authors/#${article.data.author.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`, Astro.site).toString(),
       name: article.data.author,
       jobTitle: 'Editor',
       worksFor: {
