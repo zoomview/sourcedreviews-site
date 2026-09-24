@@ -119,7 +119,7 @@ Now `contact@sourcedreviews.com` (and any other `*@sourcedreviews.com`) lands in
 After first deploy:
 
 1. **Google Search Console** (search.google.com/search-console) → Add property → URL prefix → `https://sourcedreviews.com` → verify via DNS TXT record (Cloudflare makes this easy).
-2. Submit sitemap: `https://sourcedreviews.com/sitemap-index.xml`.
+2. Submit sitemap: `https://sourcedreviews.com/sitemap.xml`.
 3. **Bing Webmaster Tools** (bing.com/webmasters) → Import from Google Search Console (one-click).
 
 ## Editing content
