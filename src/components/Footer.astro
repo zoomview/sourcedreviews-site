@@ -1,44 +1,84 @@
 ---
-const footerLinks = {
-  'Browse': [
-    { label: 'Home', href: '/' },
-    { label: 'Categories', href: '/categories/' },
-    { label: 'Home & Kitchen', href: '/categories/home-kitchen/' },
-  ],
-  'Editorial': [
-    { label: 'About', href: '/about/' },
-    { label: 'Our Method', href: '/our-method/' },
-    { label: 'Editorial Policy', href: '/editorial-policy/' },
-    { label: 'Authors', href: '/authors/' },
-  ],
-  'Compliance': [
-    { label: 'Affiliate Disclosure', href: '/affiliate-disclosure/' },
-    { label: 'Privacy Policy', href: '/privacy-policy/' },
-    { label: 'Contact', href: '/contact/' },
-  ],
-};
+import { CATEGORIES } from '../data/categories';
+
+const editorialLinks = [
+  { label: 'About', href: '/about/' },
+  { label: 'Our Method', href: '/our-method/' },
+  { label: 'Editorial Policy', href: '/editorial-policy/' },
+  { label: 'Authors', href: '/authors/' },
+];
+
+const complianceLinks = [
+  { label: 'Affiliate Disclosure', href: '/affiliate-disclosure/' },
+  { label: 'Privacy Policy', href: '/privacy-policy/' },
+  { label: 'Contact', href: '/contact/' },
+];
+
 const year = new Date().getFullYear();
 ---
 <footer class="site-footer">
   <div class="container">
-    <div class="footer-section">
-      <strong style="font-family: var(--font-serif); font-size: 1.25rem;">Sourcedreviews</strong>
-      <p style="margin-top: 0.5rem; color: var(--color-muted); font-size: 0.95rem;">
-        Independent consumer product reviews, drawn from published research and verified buyer feedback.
-      </p>
-    </div>
-    {Object.entries(footerLinks).map(([section, links]) => (
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <strong class="footer-logo">Sourcedreviews</strong>
+        <p class="footer-tagline">
+          Independent consumer product reviews, drawn from published research and verified buyer feedback.
+        </p>
+        <p class="footer-meta-line"><strong>Editor:</strong> Daniel Reeves</p>
+        <p class="footer-meta-line"><strong>Founded:</strong> 2026</p>
+        <p class="footer-meta-line">
+          <strong>Contact:</strong>
+          <a href="mailto:contact@sourcedreviews.com">contact@sourcedreviews.com</a>
+        </p>
+      </div>
+
       <div class="footer-section">
-        <h3>{section}</h3>
+        <h3>Categories</h3>
         <ul>
-          {links.map(link => (
+          {CATEGORIES.map(cat => (
+            <li><a href={`/categories/${cat.slug}/`}>{cat.name}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <div class="footer-section">
+        <h3>Editorial</h3>
+        <ul>
+          {editorialLinks.map(link => (
             <li><a href={link.href}>{link.label}</a></li>
           ))}
         </ul>
       </div>
-    ))}
+
+      <div class="footer-section">
+        <h3>Compliance</h3>
+        <ul>
+          {complianceLinks.map(link => (
+            <li><a href={link.href}>{link.label}</a></li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-site-info">
+      <p>
+        <strong>About this site.</strong>
+        Sourcedreviews is an independent consumer review publication.
+        We aggregate published testing from third-party sources (Wirecutter, NYT, America's Test Kitchen,
+        Serious Eats, Good Housekeeping, The Spruce Eats, and others) and pair it with aggregated
+        verified-buyer feedback to produce roundups and recommendations. We do not perform hands-on
+        testing of any product we recommend. Some links on this site are affiliate links —
+        when you buy through them, we may receive a commission from the brand or platform at no
+        additional cost to you. Our editorial process is independent of affiliate relationships;
+        see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a> for the full statement.
+      </p>
+      <p class="footer-contact-line">
+        Editorial inquiries: <a href="mailto:contact@sourcedreviews.com">contact@sourcedreviews.com</a>
+      </p>
+    </div>
   </div>
+
   <div class="container footer-meta">
-    © {year} Sourcedreviews. Editorial inquiries: <a href="mailto:contact@sourcedreviews.com">contact@sourcedreviews.com</a>.
+    © {year} Sourcedreviews. All rights reserved.
   </div>
 </footer>

@@ -1,7 +1,7 @@
 ---
 title: "Best Air Fryer Toaster Oven Combos of 2026: Six Picks Across Budgets"
 summary: "A counter-top oven that crisps like an air fryer is one of the most useful kitchen purchases you can make this year. Here are six we'd actually recommend, based on what published testing, manufacturer documentation, and aggregated verified-buyer feedback agree on."
-category: "Home & Kitchen"
+category: "Kitchen"
 date: 2026-09-24
 author: "Daniel Reeves"
 ---

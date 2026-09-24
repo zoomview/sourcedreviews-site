@@ -1,7 +1,7 @@
 ---
 title: "Best Portable Induction Cooktops of 2026: Five Picks for Small Kitchens and Outdoor Cooking"
 summary: "Induction cooktops heat faster, run cooler, and waste less energy than any other portable cooking technology — and they're more affordable than they used to be. Here are five we'd actually recommend, based on cross-source consensus from independent published testing and aggregated verified-buyer feedback."
-category: "Home & Kitchen"
+category: "Kitchen"
 date: 2026-09-24
 author: "Daniel Reeves"
 ---

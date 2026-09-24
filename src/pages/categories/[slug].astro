@@ -2,31 +2,31 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
+import { CATEGORIES, getCategoryBySlug } from '../../data/categories';
 
 export async function getStaticPaths() {
   const articles = await getCollection('reviews');
-  const categories = new Map<string, { name: string; slug: string; items: typeof articles }>();
 
-  for (const article of articles) {
-    const name = article.data.category;
-    const slug = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-    if (!categories.has(slug)) categories.set(slug, { name, slug, items: [] });
-    categories.get(slug)!.items.push(article);
-  }
+  // Use CATEGORIES as the source of truth for which category routes to generate.
+  // Articles are filtered into the matching category by frontmatter `category` name.
+  return CATEGORIES.map(cat => {
+    const items = articles
+      .filter(a => a.data.category === cat.name)
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-  return Array.from(categories.values()).map(cat => ({
-    params: { slug: cat.slug },
-    props: {
-      categoryName: cat.name,
-      categorySlug: cat.slug,
-      articles: cat.items.sort(
-        (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-      ),
-    },
-  }));
+    return {
+      params: { slug: cat.slug },
+      props: {
+        categoryName: cat.name,
+        categorySlug: cat.slug,
+        categoryDescription: cat.description,
+        articles: items,
+      },
+    };
+  });
 }
 
-const { categoryName, categorySlug, articles } = Astro.props;
+const { categoryName, categorySlug, categoryDescription, articles } = Astro.props;
 ---
 <BaseLayout
   title={`${categoryName} Reviews`}
@@ -34,11 +34,9 @@ const { categoryName, categorySlug, articles } = Astro.props;
 >
   <section class="hero">
     <div class="container">
-      <p style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-accent-dark); font-weight: 600; font-size: 0.8rem; margin-bottom: 0.5rem;">Category</p>
+      <p class="hero-eyebrow">Category</p>
       <h1>{categoryName}</h1>
-      <p>
-        Independent roundups and reviews in the {categoryName} category. Each recommendation is built from published testing, manufacturer documentation, and aggregated verified-buyer feedback.
-      </p>
+      <p>{categoryDescription}</p>
     </div>
   </section>
 
@@ -62,3 +60,14 @@ const { categoryName, categorySlug, articles } = Astro.props;
     )}
   </section>
 </BaseLayout>
+
+<style>
+  .hero-eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-accent-dark);
+    font-weight: 600;
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+  }
+</style>
