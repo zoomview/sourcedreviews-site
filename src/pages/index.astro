@@ -2,9 +2,25 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
+import { CATEGORIES } from '../data/categories';
 
-const articles = (await getCollection('reviews'))
+const allArticles = (await getCollection('reviews'))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+// Featured: first 4 (1 main + 3 side)
+const featuredMain = allArticles[0];
+const featuredSide = allArticles.slice(1, 4);
+// Latest grid: rest
+const latestArticles = allArticles.slice(4);
+
+// Category tiles — show only categories with at least 1 published article
+const countsByCategory = new Map<string, number>();
+for (const a of allArticles) {
+  countsByCategory.set(a.data.category, (countsByCategory.get(a.data.category) ?? 0) + 1);
+}
+const categoriesWithArticles = CATEGORIES
+  .filter(c => (countsByCategory.get(c.name) ?? 0) > 0)
+  .map(c => ({ ...c, count: countsByCategory.get(c.name) ?? 0 }));
 ---
 <BaseLayout
   title="Independent Product Reviews from Sourced Research"
@@ -12,6 +28,7 @@ const articles = (await getCollection('reviews'))
 >
   <section class="hero">
     <div class="container">
+      <p class="hero-eyebrow">Independent reviews · since 2026</p>
       <h1>Honest product reviews, sourced from real research.</h1>
       <p>
         We do not test every product in-house. Every recommendation we publish is built from independent laboratory testing, manufacturer documentation, and aggregated verified buyer feedback — and we tell you exactly where each finding came from.
@@ -19,13 +36,59 @@ const articles = (await getCollection('reviews'))
     </div>
   </section>
 
-  <section class="container">
-    <h2 class="section-heading" style="margin-top: 2.5rem;">Latest reviews</h2>
-    {articles.length === 0 ? (
-      <p style="color: var(--color-muted);">No reviews published yet. Check back soon.</p>
-    ) : (
-      <div class="article-grid">
-        {articles.map(article => (
+  {featuredMain && (
+    <section class="container" style="margin-top: 2.5rem;">
+      <h2 class="section-heading">Featured reviews</h2>
+      <div class="featured-grid">
+        <ArticleCard
+          title={featuredMain.data.title}
+          summary={featuredMain.data.summary}
+          category={featuredMain.data.category}
+          date={featuredMain.data.date}
+          slug={featuredMain.slug}
+          author={featuredMain.data.author}
+          variant="featured-main"
+        />
+        {featuredSide.length > 0 && (
+          <div class="featured-grid__side">
+            {featuredSide.map(article => (
+              <ArticleCard
+                title={article.data.title}
+                summary={article.data.summary}
+                category={article.data.category}
+                date={article.data.date}
+                slug={article.slug}
+                author={article.data.author}
+                variant="featured-side"
+              />
+            ))}
+          </div>
+        )}
+      </div>
+    </section>
+  )}
+
+  {categoriesWithArticles.length > 0 && (
+    <section class="container" style="margin-top: 3.5rem;">
+      <h2 class="section-heading">Browse by category</h2>
+      <div class="category-tiles">
+        {categoriesWithArticles.map(cat => (
+          <a class="category-tile" href={`/categories/${cat.slug}/`}>
+            <h3>{cat.name}</h3>
+            <p class="category-tile__meta">
+              {cat.count} {cat.count === 1 ? 'review' : 'reviews'}
+            </p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {latestArticles.length > 0 && (
+    <section class="container" style="margin-top: 3.5rem;">
+      <h2 class="section-heading">Latest reviews</h2>
+      <div class="article-grid article-grid--three">
+        {latestArticles.map(article => (
           <ArticleCard
             title={article.data.title}
             summary={article.data.summary}
@@ -36,6 +99,77 @@ const articles = (await getCollection('reviews'))
           />
         ))}
       </div>
-    )}
-  </section>
+    </section>
+  )}
 </BaseLayout>
+
+<style>
+  .hero-eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-accent-dark);
+    font-weight: 600;
+    font-size: 0.8rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .featured-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .featured-grid__side {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
+
+  .category-tiles {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .category-tile {
+    border: 1px solid var(--color-border);
+    padding: 1.5rem 1.25rem;
+    border-radius: 4px;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: border-color 0.2s, transform 0.2s;
+    background: var(--color-bg);
+    display: block;
+  }
+  .category-tile:hover {
+    border-color: var(--color-accent);
+    transform: translateY(-2px);
+  }
+  .category-tile h3 {
+    font-family: var(--font-serif);
+    font-size: 1.15rem;
+    margin-bottom: 0.5rem;
+    color: var(--color-text);
+  }
+  .category-tile__meta {
+    font-size: 0.85rem;
+    color: var(--color-accent-dark);
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .article-grid--three {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (max-width: 900px) {
+    .featured-grid { grid-template-columns: 1fr; }
+    .featured-grid__side { grid-template-rows: auto; }
+    .article-grid--three { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 600px) {
+    .article-grid--three { grid-template-columns: 1fr; }
+  }
+</style>

@@ -6,14 +6,62 @@ interface Props {
   date: Date;
   slug: string;
   author?: string;
+  variant?: 'default' | 'featured-main' | 'featured-side';
 }
 
-const { title, summary, category, date, slug, author = 'Daniel Reeves' } = Astro.props;
+const {
+  title,
+  summary,
+  category,
+  date,
+  slug,
+  author = 'Daniel Reeves',
+  variant = 'default',
+} = Astro.props;
+
 const dateStr = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// article slug like "best-slow-cookers-2026" → image dir "slow-cookers"
+const imageSlug = slug.replace(/^best-/, '').replace(/-\d{4}$/, '');
+// Slugs that have a downloaded hero image
+const AVAILABLE_IMAGES = new Set([
+  'air-fryer-toaster-oven',
+  'portable-induction',
+  'slow-cookers',
+  'humidifiers',
+  'electric-kettles',
+  'space-heaters',
+  'air-purifiers',
+  'blenders',
+  'robot-vacuums',
+]);
+const hasImage = AVAILABLE_IMAGES.has(imageSlug);
+const heroImage = hasImage ? `/images/reviews/${imageSlug}/hero.jpg` : null;
+const categorySlug = category.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+const variantClass = variant !== 'default' ? ` article-card--${variant}` : '';
 ---
-<article class="article-card">
-  <p class="category">{category}</p>
-  <h2><a href={`/reviews/${slug}/`}>{title}</a></h2>
-  <p class="summary">{summary}</p>
-  <p class="meta">By {author} · {dateStr}</p>
+<article class={`article-card${variantClass}`}>
+  {hasImage && (
+    <a class="article-card__image-link" href={`/reviews/${slug}/`}>
+      <img
+        src={heroImage}
+        alt={title}
+        class="article-card__image"
+        loading="lazy"
+        width="600"
+        height="450"
+      />
+    </a>
+  )}
+  <div class="article-card__content">
+    <p class="article-card__category">
+      <a href={`/categories/${categorySlug}/`}>{category}</a>
+    </p>
+    <h2 class="article-card__title">
+      <a href={`/reviews/${slug}/`}>{title}</a>
+    </h2>
+    <p class="article-card__summary">{summary}</p>
+    <p class="article-card__meta">By {author} · {dateStr}</p>
+  </div>
 </article>
