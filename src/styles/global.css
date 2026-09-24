@@ -233,6 +233,23 @@ a:hover { color: var(--color-accent); }
   border-radius: 3px;
   font-size: 0.9em;
 }
+.prose img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2.25rem auto;
+  border-radius: 4px;
+}
+.prose figure { margin: 2.25rem 0; }
+.prose figure img { margin: 0 auto; }
+.prose figcaption {
+  font-size: 0.875rem;
+  color: #6b7280;
+  text-align: center;
+  margin-top: 0.75rem;
+  font-style: italic;
+}
+
 .prose hr {
   margin: 3rem 0;
   border: 0;

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+  <rect width="600" height="450" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="599" height="449" fill="none" stroke="#e5e5e5" stroke-width="1"/>
+  <text x="40" y="55" font-family="Helvetica,sans-serif" font-size="13" font-weight="700" fill="#2563eb" letter-spacing="2">BREVILLE</text>
+  <text x="40" y="125" font-family="Georgia,serif" font-size="32" font-weight="700" fill="#1a1a1a">Smart Oven</text>
+  <text x="40" y="165" font-family="Georgia,serif" font-size="32" font-weight="700" fill="#1a1a1a">Air Fryer Pro</text>
+  <g transform="translate(450, 235)" opacity="0.85">
+    <rect x="-90" y="-45" width="180" height="90" fill="#2a2a2a" rx="6"/>
+    <rect x="-75" y="-30" width="150" height="60" fill="#0f0f0f" rx="4"/>
+    <rect x="-65" y="-15" width="130" height="3" fill="#888"/>
+    <circle cx="60" cy="32" r="7" fill="#555"/>
+    <circle cx="60" cy="32" r="3" fill="#777"/>
+  </g>
+  <line x1="40" y1="370" x2="560" y2="370" stroke="#e5e5e5"/>
+  <text x="40" y="400" font-family="Helvetica,sans-serif" font-size="14" fill="#666">1 cu ft ¡¤ 1,800 W ¡¤ 12-13" pizza</text>
+  <text x="40" y="425" font-family="Helvetica,sans-serif" font-size="11" fill="#999" letter-spacing="1.5">WIRECUTTER TOP PICK</text>
+</svg>
