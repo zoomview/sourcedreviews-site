@@ -22,8 +22,23 @@ const {
 const dateStr = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
 // article slug like "best-slow-cookers-2026" → image dir "slow-cookers"
-const imageSlug = slug.replace(/^best-/, '').replace(/-\d{4}$/, '');
-// Slugs that have a downloaded hero image
+// but "best-air-fryer-toaster-oven-combos-2026" → "air-fryer-toaster-oven"
+// and "best-portable-induction-cooktops-2026" → "portable-induction"
+// so we use an explicit lookup
+const ARTICLE_TO_IMAGE_DIR: Record<string, string> = {
+  'best-air-fryer-toaster-oven-combos-2026': 'air-fryer-toaster-oven',
+  'best-portable-induction-cooktops-2026': 'portable-induction',
+  'best-slow-cookers-2026': 'slow-cookers',
+  'best-humidifiers-2026': 'humidifiers',
+  'best-electric-kettles-2026': 'electric-kettles',
+  'best-space-heaters-2026': 'space-heaters',
+  'best-air-purifiers-2026': 'air-purifiers',
+  'best-blenders-2026': 'blenders',
+  'best-robot-vacuums-2026': 'robot-vacuums',
+  'best-mechanical-keyboards-2026': 'mechanical-keyboards',
+};
+const imageSlug = ARTICLE_TO_IMAGE_DIR[slug];
+// Slugs that have a downloaded hero image on disk
 const AVAILABLE_IMAGES = new Set([
   'air-fryer-toaster-oven',
   'portable-induction',
@@ -35,7 +50,7 @@ const AVAILABLE_IMAGES = new Set([
   'blenders',
   'robot-vacuums',
 ]);
-const hasImage = AVAILABLE_IMAGES.has(imageSlug);
+const hasImage = !!imageSlug && AVAILABLE_IMAGES.has(imageSlug);
 const heroImage = hasImage ? `/images/reviews/${imageSlug}/hero.jpg` : null;
 const categorySlug = category.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
