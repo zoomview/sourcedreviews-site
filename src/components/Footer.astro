@@ -1,0 +1,39 @@
+---
+const footerLinks = {
+  'Editorial': [
+    { label: 'About', href: '/about/' },
+    { label: 'Our Method', href: '/our-method/' },
+    { label: 'Editorial Policy', href: '/editorial-policy/' },
+    { label: 'Authors', href: '/authors/' },
+  ],
+  'Compliance': [
+    { label: 'Affiliate Disclosure', href: '/affiliate-disclosure/' },
+    { label: 'Privacy Policy', href: '/privacy-policy/' },
+    { label: 'Contact', href: '/contact/' },
+  ],
+};
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-section">
+      <strong style="font-family: var(--font-serif); font-size: 1.25rem;">Sourcedreviews</strong>
+      <p style="margin-top: 0.5rem; color: var(--color-muted); font-size: 0.95rem;">
+        Independent consumer product reviews, drawn from published research and verified buyer feedback.
+      </p>
+    </div>
+    {Object.entries(footerLinks).map(([section, links]) => (
+      <div class="footer-section">
+        <h3>{section}</h3>
+        <ul>
+          {links.map(link => (
+            <li><a href={link.href}>{link.label}</a></li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+  <div class="container footer-meta">
+    © {year} Sourcedreviews. Editorial inquiries: <a href="mailto:contact@sourcedreviews.com">contact@sourcedreviews.com</a>.
+  </div>
+</footer>

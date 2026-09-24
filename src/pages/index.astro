@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('reviews'))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+<BaseLayout
+  title="Independent Product Reviews from Sourced Research"
+  description="Sourcedreviews curates independent product reviews from published testing, manufacturer specifications, and aggregated verified buyer feedback."
+>
+  <section class="hero">
+    <div class="container">
+      <h1>Honest product reviews, sourced from real research.</h1>
+      <p>
+        We do not test every product in-house. Every recommendation we publish is built from independent laboratory testing, manufacturer documentation, and aggregated verified buyer feedback — and we tell you exactly where each finding came from.
+      </p>
+    </div>
+  </section>
+
+  <section class="container">
+    <h2 class="section-heading" style="margin-top: 2.5rem;">Latest reviews</h2>
+    {articles.length === 0 ? (
+      <p style="color: var(--color-muted);">No reviews published yet. Check back soon.</p>
+    ) : (
+      <div class="article-grid">
+        {articles.map(article => (
+          <ArticleCard
+            title={article.data.title}
+            summary={article.data.summary}
+            category={article.data.category}
+            date={article.data.date}
+            slug={article.slug}
+            author={article.data.author}
+          />
+        ))}
+      </div>
+    )}
+  </section>
+</BaseLayout>

@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Our Method"
+  description="How Sourcedreviews turns published research into product recommendations."
+>
+  <article class="prose">
+    <header>
+      <h1>Our Method</h1>
+      <p class="summary">How we turn a category of products into a small list of recommendations we stand behind.</p>
+    </header>
+
+    <h2>The four inputs</h2>
+    <p>For each roundup we publish, we draw on four kinds of inputs:</p>
+    <ol>
+      <li><strong>Independent published testing.</strong> When a recognized lab (RTINGS, Wirecutter, Consumer Reports, or a similar outlet with disclosed methodology) has published a measurement-based review, we read it and quote the relevant findings. We prioritize measurements over impressions.</li>
+      <li><strong>Manufacturer specifications.</strong> We read the product page and datasheet. Where a spec is unverifiable from independent testing, we say so.</li>
+      <li><strong>Aggregated verified-buyer feedback.</strong> When a product has enough verified buyer reviews on Amazon or another major retailer (typically several hundred or more), patterns in that feedback are themselves useful signal. We aggregate them by topic (durability, support experience, common failure modes), not by star rating alone.</li>
+      <li><strong>Long-form community reports.</strong> For enthusiast categories (mechanical keyboards, audiophile gear, etc.), long-term owner reports on Reddit, dedicated forums, and Discord communities often surface failure rates and quirks that no individual review will catch. We cite the community, not the individual posters.</li>
+    </ol>
+
+    <h2>What we do not do</h2>
+    <ul>
+      <li>We do not perform hands-on testing of every product.</li>
+      <li>We do not accept free product loans that would create a publication obligation.</li>
+      <li>We do not quote testimonials from paid review programs.</li>
+      <li>We do not extrapolate one product's testing results onto a different product of the same line.</li>
+    </ul>
+
+    <h2>How we handle disagreement between sources</h2>
+    <p>When two reliable sources disagree, we surface the disagreement rather than pick a side without explanation. The most common case is published testing saying one thing and aggregated buyer feedback saying another (e.g., a product tests well in a lab but fails repeatedly in the field). When this happens, we typically rank the long-term reliability signal higher than a single round of lab testing, and we say why.</p>
+
+    <h2>How we handle gaps in research</h2>
+    <p>If a category has thin published testing, thin manufacturer documentation, and thin aggregated buyer feedback, we say so and may decline to publish a roundup at all. We'd rather skip a category than publish a poorly-sourced list of recommendations.</p>
+
+    <h2>Affiliate links</h2>
+    <p>Where we link to a product, we may use an affiliate link. Affiliate status does not affect whether we recommend a product. If we recommend a product that we cannot link to via any affiliate program, we link to the manufacturer's page instead.</p>
+
+    <h2>What this method is not</h2>
+    <p>This method is not a substitute for hands-on testing. For categories where feel and long-term experience matter more than measurements (e.g., premium mattresses, headphones, mechanical keyboard switches), we recommend seeking out reviews that include hands-on time. We try to flag those cases in our roundups.</p>
+  </article>
+</BaseLayout>

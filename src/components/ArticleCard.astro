@@ -1,0 +1,19 @@
+---
+interface Props {
+  title: string;
+  summary: string;
+  category: string;
+  date: Date;
+  slug: string;
+  author?: string;
+}
+
+const { title, summary, category, date, slug, author = 'Daniel Reeves' } = Astro.props;
+const dateStr = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<article class="article-card">
+  <p class="category">{category}</p>
+  <h2><a href={`/reviews/${slug}/`}>{title}</a></h2>
+  <p class="summary">{summary}</p>
+  <p class="meta">By {author} · {dateStr}</p>
+</article>

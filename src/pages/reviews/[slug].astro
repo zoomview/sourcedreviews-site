@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('reviews');
+  return articles.map(article => ({
+    params: { slug: article.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await article.render();
+const dateStr = article.data.date.toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric'
+});
+---
+<BaseLayout title={article.data.title} description={article.data.summary} type="article">
+  <article class="prose">
+    <header>
+      <p style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-accent-dark); font-weight: 600; font-size: 0.8rem; margin-bottom: 0.5rem;">{article.data.category}</p>
+      <h1>{article.data.title}</h1>
+      <p class="summary">{article.data.summary}</p>
+      <p class="meta">By {article.data.author} · {dateStr}</p>
+    </header>
+    <Content />
+    <hr />
+    <p style="font-size: 0.9rem; color: var(--color-muted);">
+      This article contains affiliate links. When you buy through them, we may receive a commission from the brand or platform at no additional cost to you. Our editorial process is independent of affiliate relationships — see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a> and <a href="/our-method/">Our Method</a>.
+    </p>
+  </article>
+</BaseLayout>
