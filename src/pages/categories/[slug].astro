@@ -1,0 +1,64 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('reviews');
+  const categories = new Map<string, { name: string; slug: string; items: typeof articles }>();
+
+  for (const article of articles) {
+    const name = article.data.category;
+    const slug = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+    if (!categories.has(slug)) categories.set(slug, { name, slug, items: [] });
+    categories.get(slug)!.items.push(article);
+  }
+
+  return Array.from(categories.values()).map(cat => ({
+    params: { slug: cat.slug },
+    props: {
+      categoryName: cat.name,
+      categorySlug: cat.slug,
+      articles: cat.items.sort(
+        (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+      ),
+    },
+  }));
+}
+
+const { categoryName, categorySlug, articles } = Astro.props;
+---
+<BaseLayout
+  title={`${categoryName} Reviews`}
+  description={`Independent product reviews in the ${categoryName} category, sourced from published research and aggregated verified-buyer feedback.`}
+>
+  <section class="hero">
+    <div class="container">
+      <p style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-accent-dark); font-weight: 600; font-size: 0.8rem; margin-bottom: 0.5rem;">Category</p>
+      <h1>{categoryName}</h1>
+      <p>
+        Independent roundups and reviews in the {categoryName} category. Each recommendation is built from published testing, manufacturer documentation, and aggregated verified-buyer feedback.
+      </p>
+    </div>
+  </section>
+
+  <section class="container" style="margin-top: 2rem;">
+    <p style="margin-bottom: 1rem;"><a href="/categories/">← All categories</a></p>
+    {articles.length === 0 ? (
+      <p style="color: var(--color-muted);">No reviews published in this category yet.</p>
+    ) : (
+      <div class="article-grid">
+        {articles.map(article => (
+          <ArticleCard
+            title={article.data.title}
+            summary={article.data.summary}
+            category={article.data.category}
+            date={article.data.date}
+            slug={article.slug}
+            author={article.data.author}
+          />
+        ))}
+      </div>
+    )}
+  </section>
+</BaseLayout>

@@ -8,14 +8,34 @@ interface Props {
   title: string;
   description?: string;
   type?: 'website' | 'article';
+  ogImage?: string;
 }
 
 const {
   title,
   description = 'Independent consumer product reviews from sourced research.',
   type = 'website',
+  ogImage,
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImageURL = ogImage ?? new URL('/og-default.png', Astro.site).toString();
+
+const siteJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Sourcedreviews',
+  url: Astro.site?.toString(),
+  description: 'Independent consumer product reviews, drawn from published research and verified buyer feedback.',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Sourcedreviews',
+    url: Astro.site?.toString(),
+    logo: {
+      '@type': 'ImageObject',
+      url: new URL('/favicon.svg', Astro.site).toString(),
+    },
+  },
+};
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -30,7 +50,16 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   <meta property="og:description" content={description} />
   <meta property="og:type" content={type} />
   <meta property="og:url" content={canonicalURL} />
+  <meta property="og:image" content={ogImageURL} />
+  <meta property="og:site_name" content="Sourcedreviews" />
+  <meta property="og:locale" content="en_US" />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImageURL} />
+  <meta name="robots" content="index,follow" />
+  <meta name="theme-color" content="#ffffff" />
+  <script type="application/ld+json" set:html={JSON.stringify(siteJsonLd)} />
 </head>
 <body>
   <Disclosure />

@@ -15,14 +15,98 @@ const { Content } = await article.render();
 const dateStr = article.data.date.toLocaleDateString('en-US', {
   year: 'numeric', month: 'long', day: 'numeric'
 });
+
+const categorySlug = article.data.category
+  .toLowerCase()
+  .replace(/[^a-z0-9]+/g, '-')
+  .replace(/^-|-$/g, '');
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImageURL = new URL(`/og/${article.slug}.png`, Astro.site);
+
+// JSON-LD: Article + Person + Organization + BreadcrumbList + ItemList-style meta
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Article',
+      headline: article.data.title,
+      description: article.data.summary,
+      datePublished: article.data.date.toISOString(),
+      dateModified: article.data.date.toISOString(),
+      author: {
+        '@type': 'Person',
+        name: article.data.author,
+        url: new URL(`/authors/`, Astro.site).toString(),
+      },
+      publisher: {
+        '@type': 'Organization',
+        name: 'Sourcedreviews',
+        url: Astro.site?.toString(),
+        logo: {
+          '@type': 'ImageObject',
+          url: new URL('/favicon.svg', Astro.site).toString(),
+        },
+      },
+      mainEntityOfPage: {
+        '@type': 'WebPage',
+        '@id': canonicalURL.toString(),
+      },
+      articleSection: article.data.category,
+      keywords: [article.data.category, 'review', 'independent review', 'product roundup'],
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: 'Home',
+          item: new URL('/', Astro.site).toString(),
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: 'Categories',
+          item: new URL('/categories/', Astro.site).toString(),
+        },
+        {
+          '@type': 'ListItem',
+          position: 3,
+          name: article.data.category,
+          item: new URL(`/categories/${categorySlug}/`, Astro.site).toString(),
+        },
+        {
+          '@type': 'ListItem',
+          position: 4,
+          name: article.data.title,
+          item: canonicalURL.toString(),
+        },
+      ],
+    },
+    {
+      '@type': 'Person',
+      '@id': new URL('/authors/#daniel-reeves', Astro.site).toString(),
+      name: article.data.author,
+      jobTitle: 'Editor',
+      worksFor: {
+        '@type': 'Organization',
+        name: 'Sourcedreviews',
+      },
+    },
+  ],
+};
 ---
-<BaseLayout title={article.data.title} description={article.data.summary} type="article">
+<BaseLayout title={article.data.title} description={article.data.summary} type="article" ogImage={ogImageURL.toString()}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <article class="prose">
     <header>
-      <p style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-accent-dark); font-weight: 600; font-size: 0.8rem; margin-bottom: 0.5rem;">{article.data.category}</p>
+      <p style="text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-accent-dark); font-weight: 600; font-size: 0.8rem; margin-bottom: 0.5rem;">
+        <a href={`/categories/${categorySlug}/`} style="color: inherit; text-decoration: none;">{article.data.category}</a>
+      </p>
       <h1>{article.data.title}</h1>
       <p class="summary">{article.data.summary}</p>
-      <p class="meta">By {article.data.author} · {dateStr}</p>
+      <p class="meta">By <a href="/authors/">{article.data.author}</a> · {dateStr}</p>
     </header>
     <Content />
     <hr />
