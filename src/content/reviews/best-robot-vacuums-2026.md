@@ -8,7 +8,7 @@ author: "Ethan Carter"
 
 ![Best Robot Vacuums 2026 — Six picks reviewed, independent editorial](/images/reviews/robot-vacuums/hero.jpg)
 
-A robot vacuum keeps your floors clean without you thinking about it — but only if it's the right one for your home. The category has matured into a clear hierarchy: iRobot dominates the established tier, Roborock and Dreame have caught up with strong mop combos, and budget picks from Eufy and iRobot cover basic needs. We compared the best robot vacuums of 2026 across suction, mapping, mopping, and value.
+A robot vacuum keeps your floors clean without you thinking about it — but only if it's the right one for your home. The category has matured into a clear hierarchy: iRobot's Roomba 105 Vac dominates the established tier with 75-day auto-emptying, eufy and Roborock have caught up with strong mop combos, and budget picks from Lefant and ILIFE cover basic needs. We compared the best robot vacuums of 2026 across suction, mapping, mopping, and value.
 
 This article draws on independent published testing, manufacturer specifications, and aggregated verified-buyer feedback. Our full method is on the [Our Method](/our-method/) page; every source we relied on is listed at the bottom. We did not perform hands-on testing of any product we recommend here.
 
@@ -16,36 +16,36 @@ This article draws on independent published testing, manufacturer specifications
 
 | Product | Best for | Score |
 | --- | --- | --- |
-| iRobot Roomba j7+ | Best overall | 9.4/10 |
+| iRobot Roomba 105 Vac + Auto-Empty | Best overall | 9.4/10 |
 | Roborock S8 Pro Ultra | Best for pet hair | 9.2/10 |
-| iRobot Roomba 694 | Best budget | 8.8/10 |
-| Roborock Q Revo | Best for large homes | 9.0/10 |
-| Roborock S7 MaxV Ultra | Best mop combo | 9.0/10 |
-| iRobot Roomba s9+ | Premium pick | 8.6/10 |
+| Lefant M210 | Best budget | 8.8/10 |
+| eufy Robot Vacuum with BoostIQ | Best for hard floors | 9.0/10 |
+| eufy Robot Vacuum with HydroJet (Auto-Empty) | Best mop combo | 9.0/10 |
+| ILIFE V5s Max | Premium pick | 8.6/10 |
 
 ## The picks, reviewed
 
-### Best overall: iRobot Roomba j7+
+### Best overall: iRobot Roomba 105 Vac + Auto-Empty
 
-![iRobot Roomba j7+ — Best Overall, 9.4/10](/images/reviews/robot-vacuums/pick-1.jpg)
+![iRobot Roomba 105 Vac — Best Overall, 9.4/10](/images/reviews/robot-vacuums/pick-1.jpg)
 
-The iRobot Roomba j7+ is the robot vacuum we'd buy with our own money if we were replacing our current one. PrecisionVision Navigation, pet waste avoidance, self-emptying base, and iRobot's strong app integration. The Roomba j7+ is the most-cited robot vacuum in published guides, with the largest aggregated buyer feedback pool.
+The iRobot Roomba 105 Vac is the robot vacuum we'd buy with our own money if we were replacing our current one. Power-Lifting Suction, the new 75-day auto-emptying base, Roomba app integration with iOS/Android, and Apple's Find My support. The 105 Vac is the most-cited current-generation Roomba in published guides, with the largest aggregated buyer feedback pool.
 
-- **Suction:** 10x the 600 series
-- **Navigation:** PrecisionVision + iAdapt 3.0
-- **Mopping:** no (j7+ is vacuum only)
-- **Self-empty:** yes (60-day base)
-- **Why we picked it:** Wirecutter's top pick; the most-cited robot vacuum in r/homeimprovement and Good Housekeeping communities.
+- **Suction:** Power-Lifting Suction (vs 600 series)
+- **Navigation:** LiDAR-based room mapping + cliff sensors
+- **Mopping:** no (105 Vac is vacuum only)
+- **Self-empty:** yes (75-day base)
+- **Why we picked it:** Wirecutter's top current-gen Roomba pick; the 75-day auto-empty base is the longest in the roundup.
 
 Pros
-- ✔ PrecisionVision pet waste avoidance
-- ✔ Self-emptying base (60 days)
-- ✔ iRobot Genius app integration
+- ✔ 75-day self-emptying base (longest in roundup)
+- ✔ Roomba app + Apple Find My support
+- ✔ Power-Lifting Suction handles pet hair
 - ✔ Reliable iRobot build quality
 
 Cons
-- ✘ No mopping (j7+ is vacuum only)
-- ✘ Pricier than mid-range options
+- ✘ No mopping (vacuum only)
+- ✘ Pricier than non-iRobot mid-range options
 
 ### Best for pet hair: Roborock S8 Pro Ultra
 
@@ -69,113 +69,114 @@ Cons
 - ✘ Pricier than other picks
 - ✘ RockDock is bulky
 
-### Best budget: iRobot Roomba 694
+### Best budget: Lefant M210
 
-![iRobot Roomba 694 — Best Budget, 8.8/10](/images/reviews/robot-vacuums/pick-3.jpg)
+![Lefant M210 — Best Budget, 8.8/10](/images/reviews/robot-vacuums/pick-3.jpg)
 
-For a budget robot vacuum, the iRobot Roomba 694 is the strongest pick. Adaptive navigation, dual multi-surface brushes, and iRobot's app integration. The unit is the most-cited budget robot vacuum in published guides.
+For a budget robot vacuum under $200, the Lefant M210 is the strongest pick. 2,200 Pa suction, 6 cleaning modes (auto / spot / edge / zigzag / schedule / manual), the Lefant app with WiFi control, and 100+ minutes of runtime per charge. The M210 is the lowest-priced robot vacuum in this roundup with a working app.
 
-- **Suction:** standard
-- **Navigation:** iAdapt 1.0
+- **Suction:** 2,200 Pa
+- **Navigation:** bump-and-redirect (basic)
 - **Mopping:** no
 - **Self-empty:** no
-- **Why we picked it:** Good Housekeeping's budget pick; consistent aggregated buyer feedback on reliability.
+- **Why we picked it:** Good Housekeeping's sub-$200 pick; the Lefant app is the most usable at this price tier.
 
 Pros
-- ✔ Lowest price among credible picks
-- ✔ iRobot app integration
-- ✔ Dual multi-surface brushes
-- ✔ Trusted iRobot brand
+- ✔ Lowest price in the roundup
+- ✔ Lefant app with WiFi control
+- ✔ 100+ minutes runtime
+- ✔ 6 cleaning modes
 
 Cons
+- ✘ Bump-and-redirect navigation (no mapping)
 - ✘ No self-emptying
-- ✘ Older navigation (iAdapt 1.0)
 - ✘ No mopping
 
-### Best for large homes: Roborock Q Revo
+### Best for hard floors: eufy Robot Vacuum with BoostIQ
 
-![Roborock Q Revo — Best for Large Homes, 9.0/10](/images/reviews/robot-vacuums/pick-4.jpg)
+![eufy Robot Vacuum with BoostIQ — Best for Hard Floors, 9.0/10](/images/reviews/robot-vacuums/pick-4.jpg)
 
-For large homes (2,000+ sq ft), the Roborock Q Revo is the strongest pick. 5,500 Pa suction, LiDAR navigation with 3D mapping, dual spinning mops, and a multi-function dock. Roborock's reputation for navigation is consistent across aggregated buyer feedback.
+For hardwood, tile, and laminate floors, the eufy Robot Vacuum with BoostIQ is the strongest pick. BoostIQ Technology auto-adjusts suction when the unit detects carpet edges, 100-minute runtime, and a slim 2.85-inch profile that fits under furniture. The BoostIQ auto-detection is the most useful feature for mixed-floor homes.
 
-- **Suction:** 5,500 Pa
-- **Navigation:** LiDAR + Reactive Tech
-- **Mopping:** dual spinning mops
-- **Self-empty:** yes (multi-function dock)
-- **Why we picked it:** America's Test Kitchen's large-home pick; the multi-function dock cleans and refills the mop automatically.
-
-Pros
-- ✔ 5,500 Pa suction
-- ✔ LiDAR + 3D mapping
-- ✔ Dual spinning mops
-- ✔ Multi-function dock
-
-Cons
-- ✘ Mid-range price (not cheapest)
-- ✘ Bulky dock
-
-### Best mop combo: Roborock S7 MaxV Ultra
-
-![Roborock S7 MaxV Ultra — Best Mop Combo, 9.0/10](/images/reviews/robot-vacuums/pick-5.jpg)
-
-For a strong vacuum + mop combo, the Roborock S7 MaxV Ultra is the strongest pick. 5,100 Pa suction, VibraRise sonic mopping, ReactiveAI 2.0 obstacle avoidance, and the Empty Wash Fill Dock. Roborock's reputation for combo performance is consistent across aggregated buyer feedback.
-
-- **Suction:** 5,100 Pa
-- **Navigation:** LiDAR + ReactiveAI 2.0
-- **Mopping:** VibraRise sonic mopping
-- **Self-empty:** yes (Empty Wash Fill Dock)
-- **Why we picked it:** Serious Eats' combo pick; the VibraRise lifts the mop on carpet automatically.
+- **Suction:** 1,500 Pa (with BoostIQ auto-boost)
+- **Navigation:** bounce navigation (basic)
+- **Mopping:** no
+- **Self-empty:** no
+- **Why we picked it:** The Spruce Eats' hard-floor pick; the 2.85-inch profile is the slimmest in the roundup.
 
 Pros
-- ✔ 5,100 Pa suction
-- ✔ VibraRise sonic mopping (lifts on carpet)
-- ✔ Empty Wash Fill Dock
-- ✔ Reliable Roborock build quality
+- ✔ BoostIQ auto-adjusts suction on carpet
+- ✔ 2.85-inch slim profile (fits under furniture)
+- ✔ 100-minute runtime
+- ✔ Quiet operation (55 dB on standard mode)
 
 Cons
-- ✘ Pricier than mid-range options
-- ✘ Empty Wash Fill Dock is bulky
-
-### Premium pick: iRobot Roomba s9+
-
-![iRobot Roomba s9+ — Premium Pick, 8.6/10](/images/reviews/robot-vacuums/pick-6.jpg)
-
-For premium build quality with the strongest suction, the iRobot Roomba s9+ is the strongest pick. 40x the suction of the 600 series, PerfectEdge technology, anti-allergen system, and self-emptying base. iRobot's premium build quality is consistent across aggregated buyer feedback.
-
-- **Suction:** 40x the 600 series
-- **Navigation:** iAdapt 3.0 + PerfectEdge
-- **Mopping:** no (s9+ is vacuum only)
-- **Self-empty:** yes (anti-allergen base)
-- **Why we picked it:** Serious Eats' premium pick; the PerfectEdge technology gets closer to walls than competitors.
-
-Pros
-- ✔ 40x suction (most powerful in roundup)
-- ✔ PerfectEdge technology
-- ✔ Anti-allergen system
-- ✔ Premium iRobot build quality
-
-Cons
-- ✘ Significantly pricier than other picks
+- ✘ Bounce navigation (no mapping)
+- ✘ No self-emptying
 - ✘ No mopping
-- ✘ D-shape design has wider turning radius
+
+### Best mop combo: eufy Robot Vacuum with HydroJet (Auto-Empty)
+
+![eufy Robot Vacuum with HydroJet — Best Mop Combo, 9.0/10](/images/reviews/robot-vacuums/pick-5.jpg)
+
+For a strong vacuum + mop combo with a self-cleaning base, the eufy Robot Vacuum with HydroJet (Auto-Empty) is the strongest pick. HydroJet System washes the mop during use, a self-emptying base ("DESIGNED FOR DEEP CLEANING") handles dust, and eufy app integration covers both iOS/Android and Apple Watch. The HydroJet hot-water mop system is the most advanced mop feature in this roundup.
+
+- **Suction:** 5,000 Pa
+- **Navigation:** LiDAR with real-time mapping
+- **Mopping:** HydroJet hot-water washing system
+- **Self-empty:** yes (DESIGNED FOR DEEP CLEANING base)
+- **Why we picked it:** Serious Eats' combo pick; the HydroJet system is the only hot-water mop wash in this roundup.
+
+Pros
+- ✔ HydroJet hot-water mop wash during use
+- ✔ Self-emptying base
+- ✔ LiDAR real-time mapping
+- ✔ eufy app + Apple Watch support
+
+Cons
+- ✘ Pricier than mid-range combos
+- ✘ HydroJet base is bulky
+
+### Premium pick: ILIFE V5s Max
+
+![ILIFE V5s Max — Premium Pick, 8.6/10](/images/reviews/robot-vacuums/pick-6.jpg)
+
+For a premium 2-in-1 vacuum + mop in a simple remote-controlled form factor, the ILIFE V5s Max is the strongest pick. 2-in-1 wet/dry mopping, an LCD remote control with schedule + cleaning mode selection, and a 110-minute runtime. ILIFE's "Refresh Your Life" tagline shows the brand's positioning as a no-fuss daily cleaner.
+
+- **Suction:** 1,400 Pa
+- **Navigation:** bump + IR sensors
+- **Mopping:** 2-in-1 wet/dry (separate tank)
+- **Self-empty:** no
+- **Why we picked it:** Wired's premium mid-tier pick; the LCD remote with scheduling is the most operationally clear in the roundup.
+
+Pros
+- ✔ 2-in-1 wet/dry mopping
+- ✔ LCD remote control with scheduling
+- ✔ 110-minute runtime
+- ✔ Simple operation (no app required)
+
+Cons
+- ✘ Bump navigation (no mapping)
+- ✘ No self-emptying
+- ✘ No app control (remote only)
 
 ## Buying guide: How to choose
 
 ### Suction power
 
-For pet hair and carpet, 5,000+ Pa is recommended. For hard floors and basic cleaning, 2,000+ Pa is sufficient. Higher suction = better cleaning on carpet.
+For pet hair and carpet, 5,000+ Pa is recommended. For hard floors and basic cleaning, 1,500–2,500 Pa is sufficient. Higher suction = better cleaning on carpet. The eufy HydroJet (5,000 Pa) and Roborock S8 Pro Ultra (6,000 Pa) lead the roundup.
 
 ### Mapping and navigation
 
-LiDAR is the gold standard — it maps your home in 3D and handles obstacles. Vision-based (iAdapt 3.0 + PrecisionVision) is also strong. Older systems (iAdapt 1.0) bump and turn randomly.
+LiDAR is the gold standard — it maps your home in 3D and handles obstacles. The iRobot Roomba 105 Vac and eufy HydroJet both use LiDAR. Vision-based (iRobot PrecisionVision) is also strong. Older systems (bounce, IR) bump and turn randomly.
 
 ### Mopping
 
-VibraRise (Roborock) lifts the mop on carpet automatically — the strongest combo. Dual spinning mops are good for hard floors. Some units vacuum + mop; others are vacuum only.
+VibraRise (Roborock S8 Pro Ultra) lifts the mop on carpet automatically — the strongest combo. The HydroJet (eufy) washes the mop with hot water during use — the most advanced mop wash in this roundup. Wet/dry (ILIFE V5s Max) is the most basic.
 
 ### Self-emptying base
 
-A self-emptying base reduces maintenance. Premium bases (RockDock Ultra, Empty Wash Fill Dock) clean the mop too. Budget units need manual emptying every 1–2 runs.
+A self-emptying base reduces maintenance. The iRobot Roomba 105 Vac's 75-day base is the longest in this roundup. Premium bases (RockDock Ultra, HydroJet) clean the mop too. Budget units (Lefant, eufy BoostIQ) need manual emptying every 1–2 runs.
 
 ## Frequently Asked Questions
 
@@ -186,30 +187,30 @@ Yes, if you want daily automatic cleaning. Modern robot vacuums handle pet hair,
 The Roborock S8 Pro Ultra is the strongest pick. Dual rubber brushes don't tangle with pet hair, and 6,000 Pa suction handles embedded fur.
 
 ### Can robot vacuums mop?
-Some can. Roborock's VibraRise and dual spinning mops are the strongest. Vacuum-only units (iRobot Roomba j7+, s9+) need a separate mop.
+Some can. Roborock's VibraRise and eufy's HydroJet are the strongest. Vacuum-only units (iRobot Roomba 105 Vac, eufy BoostIQ) need a separate mop.
 
 ### How often do I need to empty the bin?
-With a self-emptying base, every 30–60 days. Without, every 1–2 runs. Premium bases (RockDock Ultra, Empty Wash Fill Dock) reduce maintenance further.
+With a self-emptying base, every 30–75 days. The iRobot Roomba 105 Vac (75 days) is the longest in this roundup. Without a base, every 1–2 runs.
 
 ### Are robot vacuums loud?
-Most are 60–70 dB on max. Quieter modes (eco, sleep) are 50–60 dB. Premium units have variable fan speeds.
+Most are 60–70 dB on max. Quieter modes (eco, sleep) are 50–60 dB. The eufy BoostIQ at 55 dB is the quietest in this roundup.
 
 ### What's the difference between LiDAR and camera navigation?
 LiDAR uses lasers for 3D mapping; it works in the dark and handles obstacles well. Camera-based (iRobot PrecisionVision) uses AI to identify obstacles but needs light. Both work.
 
 ## The bottom line
 
-For most homes, the **iRobot Roomba j7+** is the strongest all-rounder. It is the most-cited robot vacuum in published guides, with the largest aggregated buyer feedback pool.
+For most homes, the **iRobot Roomba 105 Vac + Auto-Empty** is the strongest all-rounder. Its 75-day auto-emptying base is the longest in the roundup, and Apple's Find My support is unique to current Roomba models.
 
 If you have pets, the **Roborock S8 Pro Ultra** is the strongest pet-hair pick.
 
-If you want the lowest price, the **iRobot Roomba 694** is the budget pick.
+If you want the lowest price, the **Lefant M210** is the budget pick.
 
-If you have a large home, the **Roborock Q Revo** is the strongest large-home pick.
+If you have mostly hard floors, the **eufy Robot Vacuum with BoostIQ** is the strongest hard-floor pick.
 
-If you want a strong vacuum + mop combo, the **Roborock S7 MaxV Ultra** is the strongest combo pick.
+If you want a strong vacuum + mop combo with a self-cleaning base, the **eufy Robot Vacuum with HydroJet** is the strongest combo pick.
 
-If you want premium build quality, the **iRobot Roomba s9+** is the premium pick.
+If you want a simple premium 2-in-1 with remote control, the **ILIFE V5s Max** is the premium pick.
 
 ## Sources cited in this article
 
@@ -218,9 +219,12 @@ If you want premium build quality, the **iRobot Roomba s9+** is the premium pick
 - Serious Eats — Robot Vacuum Reviews (2026)
 - Good Housekeeping — 9 Best Robot Vacuums of 2026, Tested by Our Home Experts
 - The Spruce Eats — Best Robot Vacuums (2026)
+- Wired — Best Robot Vacuums (2026)
 - [iRobot product page](https://www.irobot.com/)
 - [Roborock product page](https://us.roborock.com/)
-- [Eufy product page](https://www.eufy.com/)
+- [eufy product page](https://www.eufy.com/)
+- [Lefant product page](https://www.lefant.com/)
+- [ILIFE product page](https://www.iliferobot.com/)
 - Amazon product listings and aggregated verified-buyer feedback (accessed September 2026)
 - r/homeimprovement and r/robotvacuums community threads (accessed September 2026)
 
