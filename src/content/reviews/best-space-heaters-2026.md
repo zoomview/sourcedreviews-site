@@ -48,7 +48,7 @@ Cons
 
 ### Best for small rooms: Vornado AVH2
 
-![Vornado AVH2 — Best for Small Rooms, 9.0/10](/images/reviews/space-heaters/pick-1.jpg)
+![Vornado AVH2 — Best for Small Rooms, 9.0/10](/images/reviews/space-heaters/pick-2.jpg)
 
 For a small bedroom or office, the Vornado AVH2 is the strongest pick. Vornado's vortex circulation heats a small room more evenly than competitors, and the auto-climate control adjusts output to maintain the set temperature. The unit is compact, lightweight, and quieter than low-priority ceramic heaters.
 
@@ -69,7 +69,7 @@ Cons
 
 ### Best tower: Lasko Bladeless
 
-![Lasko Bladeless — Best Tower, 8.8/10](/images/reviews/space-heaters/pick-1.jpg)
+![Lasko Bladeless — Best Tower, 8.8/10](/images/reviews/space-heaters/pick-3.jpg)
 
 For a tower heater with a small footprint, the Lasko Bladeless is the strongest pick. 42-inch height, bladeless ceramic heating, and a remote control. The unit takes up minimal floor space and is easier to place in corners than box-shaped heaters.
 
@@ -90,7 +90,7 @@ Cons
 
 ### Best budget: Honeywell UberHeat
 
-![Honeywell UberHeat — Best Budget, 8.8/10](/images/reviews/space-heaters/pick-1.jpg)
+![Honeywell UberHeat — Best Budget, 8.8/10](/images/reviews/space-heaters/pick-4.jpg)
 
 For a budget space heater that does one job reliably, the Honeywell UberHeat is the strongest pick. 1,500 W ceramic heating, two heat settings, and a tip-over switch for safety. The compact design is easy to place on a desk or floor.
 
@@ -111,7 +111,7 @@ Cons
 
 ### Best for large rooms: Dr Infrared Heater
 
-![Dr Infrared Heater — Best for Large Rooms, 9.0/10](/images/reviews/space-heaters/pick-1.jpg)
+![Dr Infrared Heater — Best for Large Rooms, 9.0/10](/images/reviews/space-heaters/pick-5.jpg)
 
 For a large living room or open floor plan, the Dr Infrared Heater is the strongest pick. Infrared + convection heating, 1,500 W output, and a wood-cabinet design that blends into living spaces. The unit heats larger areas faster than ceramic-only competitors.
 
@@ -132,7 +132,7 @@ Cons
 
 ### Premium pick: Dyson Purifier Hot+Cool HP07
 
-![Dyson Purifier Hot+Cool HP07 — Premium Pick, 8.8/10](/images/reviews/space-heaters/pick-1.jpg)
+![Dyson Purifier Hot+Cool HP07 — Premium Pick, 8.8/10](/images/reviews/space-heaters/pick-6.jpg)
 
 For a premium space heater that doubles as an air purifier, the Dyson Purifier Hot+Cool HP07 is the strongest pick. HEPA H13 filtration, heating, cooling, and Dyson's signature app integration. The unit is significantly pricier than competitors, but if you want one appliance that heats, cools, and purifies, it is the strongest pick.
 

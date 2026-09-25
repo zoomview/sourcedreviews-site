@@ -49,7 +49,7 @@ Cons
 
 ### Best for large rooms: Blueair Blue Pure 211+
 
-![Blueair Blue Pure 211+ — Best for Large Rooms, 9.2/10](/images/reviews/air-purifiers/pick-1.jpg)
+![Blueair Blue Pure 211+ — Best for Large Rooms, 9.2/10](/images/reviews/air-purifiers/pick-2.jpg)
 
 For large rooms and open floor plans, the Blueair Blue Pure 211+ is the strongest pick. Mechanical + electrostatic filtration (no HEPA filter — uses HEPASilent technology), up to 540 sq ft coverage, and a washable pre-filter in three colors. Blueair's build quality is consistent across aggregated buyer feedback.
 
@@ -71,7 +71,7 @@ Cons
 
 ### Best for allergies: Coway Airmega 400
 
-![Coway Airmega 400 — Best for Allergies, 9.2/10](/images/reviews/air-purifiers/pick-1.jpg)
+![Coway Airmega 400 — Best for Allergies, 9.2/10](/images/reviews/air-purifiers/pick-3.jpg)
 
 For allergy sufferers, the Coway Airmega 400 is the strongest pick. True HEPA filtration, dual-fan design for higher CADR, and a coverage area of up to 1,560 sq ft (the largest in our roundup). Coway's reputation for reliability is consistent across aggregated buyer feedback, and the brand is a trusted name in Korea for air quality products.
 
@@ -93,7 +93,7 @@ Cons
 
 ### Best for bedrooms: Levoit Core 300S
 
-![Levoit Core 300S — Best for Bedrooms, 9.0/10](/images/reviews/air-purifiers/pick-1.jpg)
+![Levoit Core 300S — Best for Bedrooms, 9.0/10](/images/reviews/air-purifiers/pick-4.jpg)
 
 For a bedroom or small room, the Levoit Core 300S is the strongest pick. Compact 8.7-inch footprint, True HEPA H13 filtration, smart connectivity via app, and a quiet 22 dB sleep mode. Levoit's compact design is easier to place on a nightstand or shelf than larger units.
 
@@ -115,7 +115,7 @@ Cons
 
 ### Best budget: Honeywell HPA300
 
-![Honeywell HPA300 — Best Budget, 9.0/10](/images/reviews/air-purifiers/pick-1.jpg)
+![Honeywell HPA300 — Best Budget, 9.0/10](/images/reviews/air-purifiers/pick-5.jpg)
 
 For an air purifier that does one job reliably at the lowest price, the Honeywell HPA300 is the strongest pick. True HEPA filtration, up to 465 sq ft coverage, and three fan speeds. The unit is bulkier than smart equivalents, but at the price it is hard to argue with.
 
@@ -137,7 +137,7 @@ Cons
 
 ### Premium pick: Dyson Purifier Cool TP10
 
-![Dyson Purifier Cool TP10 — Premium Pick, 8.6/10](/images/reviews/air-purifiers/pick-1.jpg)
+![Dyson Purifier Cool TP10 — Premium Pick, 8.6/10](/images/reviews/air-purifiers/pick-6.jpg)
 
 For premium build quality with the most polished app, the Dyson Purifier Cool TP10 is the strongest pick. HEPA H13 filtration, bladeless design, full air quality reporting in the app, and Dyson's signature integration with Alexa and Google. The unit is significantly pricier than competitors, but if you want the most polished smart purifier, it is the strongest pick.
 

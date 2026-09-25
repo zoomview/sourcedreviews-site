@@ -49,7 +49,7 @@ Cons
 
 ### Best for pet hair: Roborock S8 Pro Ultra
 
-![Roborock S8 Pro Ultra — Best for Pet Hair, 9.2/10](/images/reviews/robot-vacuums/pick-1.jpg)
+![Roborock S8 Pro Ultra — Best for Pet Hair, 9.2/10](/images/reviews/robot-vacuums/pick-2.jpg)
 
 For pet owners, the Roborock S8 Pro Ultra is the strongest pick. 6,000 Pa suction, dual rubber brushes (no brush roll tangling), VibraRise 2.0 mopping, and the RockDock Ultra self-cleaning base. Roborock's reputation for pet-hair handling is consistent across aggregated buyer feedback.
 
@@ -71,7 +71,7 @@ Cons
 
 ### Best budget: iRobot Roomba 694
 
-![iRobot Roomba 694 — Best Budget, 8.8/10](/images/reviews/robot-vacuums/pick-1.jpg)
+![iRobot Roomba 694 — Best Budget, 8.8/10](/images/reviews/robot-vacuums/pick-3.jpg)
 
 For a budget robot vacuum, the iRobot Roomba 694 is the strongest pick. Adaptive navigation, dual multi-surface brushes, and iRobot's app integration. The unit is the most-cited budget robot vacuum in published guides.
 
@@ -94,7 +94,7 @@ Cons
 
 ### Best for large homes: Roborock Q Revo
 
-![Roborock Q Revo — Best for Large Homes, 9.0/10](/images/reviews/robot-vacuums/pick-1.jpg)
+![Roborock Q Revo — Best for Large Homes, 9.0/10](/images/reviews/robot-vacuums/pick-4.jpg)
 
 For large homes (2,000+ sq ft), the Roborock Q Revo is the strongest pick. 5,500 Pa suction, LiDAR navigation with 3D mapping, dual spinning mops, and a multi-function dock. Roborock's reputation for navigation is consistent across aggregated buyer feedback.
 
@@ -116,7 +116,7 @@ Cons
 
 ### Best mop combo: Roborock S7 MaxV Ultra
 
-![Roborock S7 MaxV Ultra — Best Mop Combo, 9.0/10](/images/reviews/robot-vacuums/pick-1.jpg)
+![Roborock S7 MaxV Ultra — Best Mop Combo, 9.0/10](/images/reviews/robot-vacuums/pick-5.jpg)
 
 For a strong vacuum + mop combo, the Roborock S7 MaxV Ultra is the strongest pick. 5,100 Pa suction, VibraRise sonic mopping, ReactiveAI 2.0 obstacle avoidance, and the Empty Wash Fill Dock. Roborock's reputation for combo performance is consistent across aggregated buyer feedback.
 
@@ -138,7 +138,7 @@ Cons
 
 ### Premium pick: iRobot Roomba s9+
 
-![iRobot Roomba s9+ — Premium Pick, 8.6/10](/images/reviews/robot-vacuums/pick-1.jpg)
+![iRobot Roomba s9+ — Premium Pick, 8.6/10](/images/reviews/robot-vacuums/pick-6.jpg)
 
 For premium build quality with the strongest suction, the iRobot Roomba s9+ is the strongest pick. 40x the suction of the 600 series, PerfectEdge technology, anti-allergen system, and self-emptying base. iRobot's premium build quality is consistent across aggregated buyer feedback.
 

@@ -48,7 +48,7 @@ Cons
 
 ### Best for smoothies: Ninja Professional
 
-![Ninja Professional — Best for Smoothies, 9.0/10](/images/reviews/blenders/pick-1.jpg)
+![Ninja Professional — Best for Smoothies, 9.0/10](/images/reviews/blenders/pick-2.jpg)
 
 For daily smoothies and frozen drinks, the Ninja Professional is the strongest pick. 1,000 W motor, total crushing blades, and a 72 oz pitcher. Ninja's reputation for value is consistent across aggregated buyer feedback, and the brand is the most-cited mid-range blender.
 
@@ -69,7 +69,7 @@ Cons
 
 ### Best budget: Oster Pro 1200
 
-![Oster Pro 1200 — Best Budget, 9.0/10](/images/reviews/blenders/pick-1.jpg)
+![Oster Pro 1200 — Best Budget, 9.0/10](/images/reviews/blenders/pick-3.jpg)
 
 For a budget blender that does one job reliably, the Oster Pro 1200 is the strongest pick. 1,200 W motor, all-metal drive system, and a 6-cup glass jar. Oster's build quality is consistent across aggregated buyer feedback, and the all-metal drive is rare at this price.
 
@@ -90,7 +90,7 @@ Cons
 
 ### Best for ice: Blendtec Total Classic
 
-![Blendtec Total Classic — Best for Ice, 9.0/10](/images/reviews/blenders/pick-1.jpg)
+![Blendtec Total Classic — Best for Ice, 9.0/10](/images/reviews/blenders/pick-4.jpg)
 
 For crushing ice and frozen ingredients, the Blendtec Total Classic is the strongest pick. 1,560 W motor, blunt safety blades, and a 75 oz container. Blendtec's reputation for ice-crushing is consistent across aggregated buyer feedback, and the brand is a trusted name in commercial kitchens.
 
@@ -111,7 +111,7 @@ Cons
 
 ### Best personal: NutriBullet Pro 900
 
-![NutriBullet Pro 900 — Best Personal, 8.8/10](/images/reviews/blenders/pick-1.jpg)
+![NutriBullet Pro 900 — Best Personal, 8.8/10](/images/reviews/blenders/pick-5.jpg)
 
 For a personal blender for single-serve smoothies, the NutriBullet Pro 900 is the strongest pick. 900 W motor, extractor blades, and 32 oz cups included. NutriBullet's reputation for personal blending is consistent across aggregated buyer feedback.
 
@@ -132,7 +132,7 @@ Cons
 
 ### Premium pick: Vitamix A3500
 
-![Vitamix A3500 — Premium Pick, 8.8/10](/images/reviews/blenders/pick-1.jpg)
+![Vitamix A3500 — Premium Pick, 8.8/10](/images/reviews/blenders/pick-6.jpg)
 
 For premium build quality with smart connectivity, the Vitamix A3500 is the strongest pick. Variable speed control, 5 pre-programmed cycles, touchscreen interface, and self-cleaning mode. The unit is significantly pricier than competitors, but if you want the most polished Vitamix experience, it is the strongest pick.
 
