@@ -1,0 +1,470 @@
+{
+  "best-coffee-makers": [
+    {
+      "hash": "61v2kOSY6iL",
+      "name": "1. Technivorm Moccamaster KBG 53954"
+    },
+    {
+      "hash": "81+HcYgDo1L",
+      "name": "2. Ninja 12-Cup Programmable (CE251)"
+    },
+    {
+      "hash": "71dxDL0TaIL",
+      "name": "3. OXO Brew 9-Cup Coffee Maker"
+    },
+    {
+      "hash": "51u1Rs5xfCL",
+      "name": "4. Braun BrewSense KF7150"
+    },
+    {
+      "hash": "71io+Gh4ApL",
+      "name": "5. Cuisinart PerfecTemp DCC-3200"
+    }
+  ],
+  "best-drip-coffee-makers": [
+    {
+      "hash": "71UmYfGkCBL",
+      "name": "Cuisinart DCC-1200 Brew Central 12-Cup"
+    },
+    {
+      "hash": "61Rdl5C2AHL",
+      "name": "BLACK+DECKER 12-Cup Drip Coffee Maker"
+    },
+    {
+      "hash": "71io+Gh4ApL",
+      "name": "Cuisinart Programmable Stainless 12-Cup"
+    },
+    {
+      "hash": "81+HcYgDo1L",
+      "name": "Ninja Fresh Brew 12-Cup Coffee Maker"
+    },
+    {
+      "hash": "7174mXtDxyL",
+      "name": "Hamilton Beach FrontFill 12-Cup"
+    },
+    {
+      "hash": "71VrdDpSW-L",
+      "name": "Mueller 12-Cup Drip Coffee Maker"
+    }
+  ],
+  "best-pour-over-coffee-makers": [
+    {
+      "hash": "51rEZwQAmqL",
+      "name": "Chemex Classic Series Pour-Over"
+    },
+    {
+      "hash": "81t6Ae7XnRL",
+      "name": "Hario V60 Ceramic Pour-Over Set"
+    },
+    {
+      "hash": "61ShLwhRkML",
+      "name": "Bodum Pour-Over Coffee Maker"
+    },
+    {
+      "hash": "51Pi-0c8ovL",
+      "name": "OXO Brew Single Serve Pour-Over"
+    },
+    {
+      "hash": "71ZDozIDtcL",
+      "name": "Cosori Double-Layer Stainless Pour-Over"
+    },
+    {
+      "hash": "81NYyCkrQbL",
+      "name": "Bean Envy Pour-Over Coffee Maker"
+    }
+  ],
+  "best-cold-brew-coffee-makers": [
+    {
+      "hash": "71s5Zlt6JTL",
+      "name": "Takeya Deluxe Cold Brew Coffee Maker"
+    },
+    {
+      "hash": "61XApbMI3BL",
+      "name": "County Line Kitchen 64oz Cold Brew Maker"
+    },
+    {
+      "hash": "61d4DsBOGwL",
+      "name": "Primula Burke Deluxe Cold Brew Maker"
+    },
+    {
+      "hash": "71VMYIewQOL",
+      "name": "OVALWARE Airtight Cold Brew Maker"
+    },
+    {
+      "hash": "81yEdHzDgkL",
+      "name": "Bodum Cold Brew Coffee Maker"
+    },
+    {
+      "hash": "71n1eH8llzL",
+      "name": "OXO Good Grips Cold Brew Maker"
+    }
+  ],
+  "best-single-serve-coffee-makers": [
+    {
+      "hash": "71eood2xIWL",
+      "name": "Keurig K-Elite Single-Serve Coffee Maker"
+    },
+    {
+      "hash": "61UTFJux1pL",
+      "name": "Keurig K-Mini Coffee Maker"
+    },
+    {
+      "hash": "71xyn9-4cAL",
+      "name": "Ninja Pod &#038; Grounds Single-Serve Maker"
+    },
+    {
+      "hash": "717849a6v+L",
+      "name": "Keurig K-Duo Coffee Maker"
+    },
+    {
+      "hash": "71BXmTHyxzL",
+      "name": "Elite Gourmet Personal Single-Serve Maker"
+    },
+    {
+      "hash": "71g32Ncg7ML",
+      "name": "Tastyle Mini Hot &#038; Iced Coffee Maker"
+    }
+  ],
+  "best-keurig-coffee-makers": [
+    {
+      "hash": "71eood2xIWL",
+      "name": "Keurig K-Elite Single Serve Coffee Maker"
+    },
+    {
+      "hash": "61wQb8IB8UL",
+      "name": "Keurig K-Classic Coffee Maker"
+    },
+    {
+      "hash": "71xuVr0CPbL",
+      "name": "Keurig K-Express Coffee Maker"
+    },
+    {
+      "hash": "61sG7DQyMGL",
+      "name": "Keurig K-Supreme Coffee Maker"
+    },
+    {
+      "hash": "717849a6v+L",
+      "name": "Keurig K-Duo Coffee Maker"
+    },
+    {
+      "hash": "618D34n8gLL",
+      "name": "Keurig K-Mini Mate Coffee Maker"
+    }
+  ],
+  "best-coffee-makers-with-grinder": [
+    {
+      "hash": "61uCuYr7U0L",
+      "name": "Cuisinart DGB-550 Grind &#038; Brew"
+    },
+    {
+      "hash": "81S5wjMo77L",
+      "name": "Cuisinart Automatic Grind &#038; Brew 12-Cup"
+    },
+    {
+      "hash": "812Hb1XRaaL",
+      "name": "BLACK+DECKER Farberware Grind &#038; Brew"
+    },
+    {
+      "hash": "61+a4FSdocL",
+      "name": "Gevi 10-Cup Grind &#038; Brew"
+    },
+    {
+      "hash": "71BvCt6eAFL",
+      "name": "Breville Barista Express"
+    },
+    {
+      "hash": "61D9GtphxuL",
+      "name": "Ninja Luxe Caf¨¦ 3-in-1"
+    }
+  ],
+  "best-mechanical-keyboards": [
+    {
+      "hash": "61MC8BK0w0L",
+      "name": "AULA F75 Pro Wireless Mechanical Keyboard (75%, Hot-Swappable)"
+    },
+    {
+      "hash": "616P6EAYVXL",
+      "name": "Keychron K10 Wireless Mechanical Keyboard (Full-Size, 104 Keys)"
+    },
+    {
+      "hash": "61-XuWDJONL",
+      "name": "DarkBeacon Flux87 HE Mechanical Keyboard (Rapid Trigger)"
+    },
+    {
+      "hash": "71TEpz0fcIL",
+      "name": "LAMA 60% Hot-Swappable Mechanical Keyboard"
+    },
+    {
+      "hash": "71Bk2A2WmOL",
+      "name": "Redragon Wired Mechanical Gaming Keyboard"
+    }
+  ],
+  "best-standing-desks": [
+    {
+      "hash": "71smFjr2QgL",
+      "name": "FEZIBO Standing Desk 48 ¡Á 24 Inch Electric Height Adjustable, Maple"
+    },
+    {
+      "hash": "61W15gjKHbL",
+      "name": "Veken 55 Inch Large Electric Standing Desk, Gaming Table, White"
+    },
+    {
+      "hash": "61WAcpw8HUL",
+      "name": "MALOL 56&#8243; x 24&#8243; Electric Standing Desk with Adjustable Footrest, Black"
+    },
+    {
+      "hash": "71HjoYZ2+WL",
+      "name": "Veken 47.2 Inch Large Electric Standing Desk, Gaming Table, Black"
+    },
+    {
+      "hash": "71LMMCG-7hL",
+      "name": "Claiks Electric Height Adjustable Standing Desk, 48&#215;24 Inch, Rustic Br"
+    },
+    {
+      "hash": "61ABU8EwDcL",
+      "name": "HUANUO 32&#215;19 Inch Small Electric Standing Desk, Adjustable, Light Waln"
+    }
+  ],
+  "best-gaming-chairs": [
+    {
+      "hash": "71gKJdl3PnL",
+      "name": "Dowinx Gaming Chair (Pocket Spring)"
+    },
+    {
+      "hash": "71JMbeac-qL",
+      "name": "Razer Iskur V2 X"
+    },
+    {
+      "hash": "61aYkwYPJHL",
+      "name": "GTRACING Gaming Chair"
+    },
+    {
+      "hash": "71DzzVQiD2L",
+      "name": "Homall Gaming Chair"
+    },
+    {
+      "hash": "61zJ9iduIfL",
+      "name": "BestOffice Gaming Chair"
+    }
+  ],
+  "best-gaming-chairs-under-100": [
+    {
+      "hash": "71DzzVQiD2L",
+      "name": "Homall Gaming Chair"
+    },
+    {
+      "hash": "71gKJdl3PnL",
+      "name": "Dowinx Gaming Chair (Pocket Spring)"
+    },
+    {
+      "hash": "61aYkwYPJHL",
+      "name": "GTRACING Gaming Chair"
+    },
+    {
+      "hash": "61zJ9iduIfL",
+      "name": "BestOffice Gaming Chair"
+    },
+    {
+      "hash": "71JMbeac-qL",
+      "name": "Razer Iskur V2 X"
+    }
+  ],
+  "best-gaming-chairs-under-150": [
+    {
+      "hash": "71JMbeac-qL",
+      "name": "Razer Iskur V2 X"
+    },
+    {
+      "hash": "71gKJdl3PnL",
+      "name": "Dowinx Gaming Chair (Pocket Spring)"
+    },
+    {
+      "hash": "61aYkwYPJHL",
+      "name": "GTRACING Gaming Chair"
+    },
+    {
+      "hash": "71DzzVQiD2L",
+      "name": "Homall Gaming Chair"
+    },
+    {
+      "hash": "81RTp09l5HL",
+      "name": "Dowinx Big &#038; Tall Gaming Chair"
+    }
+  ],
+  "best-gaming-chairs-for-streamers": [
+    {
+      "hash": "71JMbeac-qL",
+      "name": "Razer Iskur V2 X"
+    },
+    {
+      "hash": "71gKJdl3PnL",
+      "name": "Dowinx Gaming Chair (Pocket Spring)"
+    },
+    {
+      "hash": "61aYkwYPJHL",
+      "name": "GTRACING Gaming Chair"
+    },
+    {
+      "hash": "71DzzVQiD2L",
+      "name": "Homall Gaming Chair"
+    },
+    {
+      "hash": "81RTp09l5HL",
+      "name": "Dowinx Big &#038; Tall Gaming Chair"
+    }
+  ],
+  "best-gaming-chairs-for-heavy-people": [
+    {
+      "hash": "61pWGEuNHML",
+      "name": "AKRacing Masters Series Max"
+    },
+    {
+      "hash": "81RTp09l5HL",
+      "name": "Dowinx Big &#038; Tall Gaming Chair"
+    },
+    {
+      "hash": "61jJ4SeFDnL",
+      "name": "Razer Iskur XL"
+    },
+    {
+      "hash": "71gKJdl3PnL",
+      "name": "Dowinx Gaming Chair (Pocket Spring)"
+    },
+    {
+      "hash": "61aYkwYPJHL",
+      "name": "GTRACING Gaming Chair"
+    }
+  ],
+  "best-gaming-chairs-for-good-posture": [
+    {
+      "hash": "71JMbeac-qL",
+      "name": "Razer Iskur V2 X"
+    },
+    {
+      "hash": "71gKJdl3PnL",
+      "name": "Dowinx Gaming Chair (Pocket Spring)"
+    },
+    {
+      "hash": "71DzzVQiD2L",
+      "name": "Homall Gaming Chair"
+    },
+    {
+      "hash": "61aYkwYPJHL",
+      "name": "GTRACING Gaming Chair"
+    },
+    {
+      "hash": "61zJ9iduIfL",
+      "name": "BestOffice Gaming Chair"
+    }
+  ],
+  "best-gaming-chairs-for-console-players": [
+    {
+      "hash": "71gKJdl3PnL",
+      "name": "Dowinx Gaming Chair (Pocket Spring)"
+    },
+    {
+      "hash": "71JMbeac-qL",
+      "name": "Razer Iskur V2 X"
+    },
+    {
+      "hash": "61aYkwYPJHL",
+      "name": "GTRACING Gaming Chair"
+    },
+    {
+      "hash": "71DzzVQiD2L",
+      "name": "Homall Gaming Chair"
+    },
+    {
+      "hash": "61zJ9iduIfL",
+      "name": "BestOffice Gaming Chair"
+    }
+  ],
+  "best-steak-knife-set": [
+    {
+      "hash": "7125-lwYKkL",
+      "name": "Amorston Steak Knife Set of 8"
+    },
+    {
+      "hash": "71-nIaHNuNL",
+      "name": "Bellemain Serrated Steak Knife Set of 8"
+    },
+    {
+      "hash": "71QQVMVIStL",
+      "name": "HENCKELS Razor-Sharp Steak Knife Set"
+    },
+    {
+      "hash": "617+obc-W5L",
+      "name": "Cuisinart Steak Knife Set of 6"
+    },
+    {
+      "hash": "61TheuxRpFL",
+      "name": "Astercook Steak Knife Set"
+    },
+    {
+      "hash": "61HQ0VF1qnL",
+      "name": "Amazon Basics Full-Tang Steak Knife Set"
+    },
+    {
+      "hash": "71bGZOytOyL",
+      "name": "WUSTHOF Gourmet Steak Knife Set"
+    },
+    {
+      "hash": "81SJ5qYUUxL",
+      "name": "Zwilling Ultra-Sharp Steak Knife Set"
+    },
+    {
+      "hash": "71S-I5LfUzL",
+      "name": "Dishwasher-Safe Steak Knife Set of 6"
+    },
+    {
+      "hash": "81+t9mRYvLL",
+      "name": "WUSTHOF Mignon Steak Knife Set of 8"
+    },
+    {
+      "hash": "61s7aXyOf+L",
+      "name": "Triple-Rivet Steak Knife Set of 8"
+    }
+  ],
+  "best-carving-knife-and-fork": [
+    {
+      "hash": "71opG3cfMKL",
+      "name": "Cutluxe Carving Knife and Fork Set"
+    },
+    {
+      "hash": "61v39z2pH1L",
+      "name": "HENCKELS Statement Carving Set"
+    },
+    {
+      "hash": "61tjfodNJ8L",
+      "name": "WUSTHOF Gourmet Carving Set"
+    },
+    {
+      "hash": "71JMxV925vL",
+      "name": "MOSFiATA Carving Knife and Fork Set"
+    },
+    {
+      "hash": "71GroD4cCPL",
+      "name": "Henckels Forged Accent Carving Tool Set"
+    },
+    {
+      "hash": "71OgV3b3UVL",
+      "name": "PAUDIN Carving Knife Set"
+    },
+    {
+      "hash": "61fjzppY3GL",
+      "name": "FINTISO BBQ Carving and Slicing Set"
+    },
+    {
+      "hash": "61XXqEYBjqL",
+      "name": "HOSHANHO Carving Knife and Fork Set"
+    },
+    {
+      "hash": "51IRSACwbmL",
+      "name": "Classic 8-Inch Carving Knife and Fork Set"
+    },
+    {
+      "hash": "51qO-+5noNL",
+      "name": "Carving Knife Set for Turkey and Roasts"
+    }
+  ]
+}
