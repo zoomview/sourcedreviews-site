@@ -24,8 +24,9 @@ const dateStr = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long
 // article slug like "best-slow-cookers-2026" → image dir "slow-cookers"
 // but "best-air-fryer-toaster-oven-combos-2026" → "air-fryer-toaster-oven"
 // and "best-portable-induction-cooktops-2026" → "portable-induction"
-// so we use an explicit lookup
+// so we use an explicit lookup of all 27 articles
 const ARTICLE_TO_IMAGE_DIR: Record<string, string> = {
+  // Original 9
   'best-air-fryer-toaster-oven-combos-2026': 'air-fryer-toaster-oven',
   'best-portable-induction-cooktops-2026': 'portable-induction',
   'best-slow-cookers-2026': 'slow-cookers',
@@ -36,21 +37,31 @@ const ARTICLE_TO_IMAGE_DIR: Record<string, string> = {
   'best-blenders-2026': 'blenders',
   'best-robot-vacuums-2026': 'robot-vacuums',
   'best-mechanical-keyboards-2026': 'mechanical-keyboards',
+  // Coffee makers (7)
+  'best-coffee-makers-2026': 'coffee-makers',
+  'best-drip-coffee-makers-2026': 'drip-coffee-makers',
+  'best-pour-over-coffee-makers-2026': 'pour-over-coffee-makers',
+  'best-cold-brew-coffee-makers-2026': 'cold-brew-coffee-makers',
+  'best-single-serve-coffee-makers-2026': 'single-serve-coffee-makers',
+  'best-keurig-coffee-makers-2026': 'keurig-coffee-makers',
+  'best-coffee-makers-with-grinder-2026': 'coffee-makers-with-grinder',
+  // Gaming chairs (7)
+  'best-gaming-chairs-2026': 'gaming-chairs',
+  'best-gaming-chairs-under-100-2026': 'gaming-chairs-under-100',
+  'best-gaming-chairs-under-150-2026': 'gaming-chairs-under-150',
+  'best-gaming-chairs-for-streamers-2026': 'gaming-chairs-for-streamers',
+  'best-gaming-chairs-for-heavy-people-2026': 'gaming-chairs-for-heavy-people',
+  'best-gaming-chairs-for-good-posture-2026': 'gaming-chairs-for-good-posture',
+  'best-gaming-chairs-for-console-players-2026': 'gaming-chairs-for-console-players',
+  // Other (3)
+  'best-standing-desks-2026': 'standing-desks',
+  'best-steak-knife-set-2026': 'steak-knife-set',
+  'best-carving-knife-and-fork-2026': 'carving-knife-and-fork',
 };
 const imageSlug = ARTICLE_TO_IMAGE_DIR[slug];
-// Slugs that have a downloaded hero image on disk
-const AVAILABLE_IMAGES = new Set([
-  'air-fryer-toaster-oven',
-  'portable-induction',
-  'slow-cookers',
-  'humidifiers',
-  'electric-kettles',
-  'space-heaters',
-  'air-purifiers',
-  'blenders',
-  'robot-vacuums',
-]);
-const hasImage = !!imageSlug && AVAILABLE_IMAGES.has(imageSlug);
+// Every entry in ARTICLE_TO_IMAGE_DIR has a hero.jpg on disk, so hasImage
+// reduces to "do we have a mapping for this slug"
+const hasImage = !!imageSlug;
 const heroImage = hasImage ? `/images/reviews/${imageSlug}/hero.jpg` : null;
 const categorySlug = category.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
