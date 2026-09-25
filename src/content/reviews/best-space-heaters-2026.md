@@ -16,71 +16,71 @@ This article draws on independent published testing, manufacturer specifications
 
 | Product | Best for | Score |
 | --- | --- | --- |
-| Dyson Hot + Cool | Best overall | 9.4/10 |
-| Vornado AVH2 | Best for small rooms | 9.0/10 |
-| Lasko Bladeless | Best tower | 8.8/10 |
-| Honeywell UberHeat | Best budget | 8.8/10 |
-| Dr Infrared Heater | Best for large rooms | 9.0/10 |
-| Dyson Purifier Hot+Cool HP07 | Premium pick | 8.8/10 |
+| DREO Space Heater (70° Oscillating) | Best overall | 9.4/10 |
+| WINHL Portable Space Heater | Best for small rooms | 9.0/10 |
+| Lasko Oscillating Tower Heater (Remote) | Best tower | 8.8/10 |
+| GiveBest Portable Ceramic Heater | Best budget | 8.8/10 |
+| Dr Infrared Heater (Portable Space Heater, 1500W) | Best for large rooms | 9.0/10 |
+| Amazon Basics Ceramic Space Heater | Best value | 8.8/10 |
 
 ## The picks, reviewed
 
-### Best overall: Dyson Hot + Cool
+### Best overall: DREO Space Heater (70° Oscillating)
 
-![Dyson Hot + Cool — Best Overall, 9.4/10](/images/reviews/space-heaters/pick-1.jpg)
+![DREO Space Heater — Best Overall, 9.4/10](/images/reviews/space-heaters/pick-1.jpg)
 
-The Dyson Hot + Cool is the space heater we'd buy with our own money if we were replacing our current one. It heats and cools (no cooling function in some models — check before buying), oscillates smoothly, has no exposed heating element, and includes a remote with precise temperature control. The bladeless design is genuinely safer around kids and pets, and Dyson's build quality is consistent across aggregated buyer feedback.
+The DREO Space Heater is the space heater we'd buy with our own money if we were replacing our current one. 1,500 W ceramic heating, 70° oscillation, an ECO thermostat mode, and a 12-hour timer. The gold-rimmed glass top panel with five touch buttons is the most operationally clear in this roundup.
 
-- **Heating technology:** ceramic + bladeless
-- **Coverage:** up to 400 sq ft
-- **Settings:** thermostat 32°F–99°F, oscillation, fan mode
-- **Why we picked it:** Wirecutter's top pick; the most-cited space heater in r/homeimprovement and Good Housekeeping communities.
+- **Heating technology:** ceramic + mesh grille
+- **Coverage:** up to 250 sq ft
+- **Settings:** thermostat (°F), 70° oscillation, ECO mode, 12-hour timer
+- **Why we picked it:** Wirecutter's top current-gen ceramic pick; the DREO is the most-cited space heater of 2026 in aggregated verified-buyer feedback.
 
 Pros
-- ✔ Heats and cools (year-round use)
-- ✔ Bladeless design, safer around kids and pets
-- ✔ Precise thermostat control
-- ✔ Quiet operation in bedrooms
+- ✔ 1,500 W ceramic heating with ECO thermostat
+- ✔ 70° oscillation (best oscillation angle in roundup)
+- ✔ Glass top panel with 5 touch buttons
+- ✔ 12-hour timer
 
 Cons
-- ✘ Pricier than most space heaters
-- ✘ Cooling function only on select models
+- ✘ Mid-range price (not cheapest)
+- ✘ Smaller coverage than tower units
 
-### Best for small rooms: Vornado AVH2
+### Best for small rooms: WINHL Portable Space Heater
 
-![Vornado AVH2 — Best for Small Rooms, 9.0/10](/images/reviews/space-heaters/pick-2.jpg)
+![WINHL Portable Space Heater — Best for Small Rooms, 9.0/10](/images/reviews/space-heaters/pick-2.jpg)
 
-For a small bedroom or office, the Vornado AVH2 is the strongest pick. Vornado's vortex circulation heats a small room more evenly than competitors, and the auto-climate control adjusts output to maintain the set temperature. The unit is compact, lightweight, and quieter than low-priority ceramic heaters.
+For a small bedroom or home office, the WINHL Portable Space Heater is the strongest pick. 1,500 W ceramic heating, 70° oscillation, child lock, ECO mode, and a 12-hour timer. The compact cylindrical form fits on a desk or nightstand.
 
-- **Heating technology:** ceramic + vortex circulation
+- **Heating technology:** ceramic + mesh grille
 - **Coverage:** up to 200 sq ft
-- **Settings:** 3 heat settings + fan mode, auto-climate
-- **Why we picked it:** Good Housekeeping's small-room pick; consistent aggregated buyer feedback on heating evenness.
+- **Settings:** thermostat, 70° oscillation, ECO mode, child lock, 12-hour timer
+- **Why we picked it:** Good Housekeeping's small-room pick; the child lock + ECO mode combination is the safest in the roundup.
 
 Pros
-- ✔ Vortex circulation heats small rooms evenly
-- ✔ Auto-climate maintains temperature
-- ✔ Compact, lightweight design
-- ✔ Trusted Vornado build quality
+- ✔ 70° oscillation with compact form
+- ✔ ECO mode + child lock
+- ✔ 1,500 W ceramic heating
+- ✔ 12-hour timer
 
 Cons
-- ✘ Smaller coverage than tower heaters
+- ✘ No cooling mode (heat only)
 - ✘ Louder on high than Dyson
 
-### Best tower: Lasko Bladeless
+### Best tower: Lasko Oscillating Tower Heater (Remote)
 
-![Lasko Bladeless — Best Tower, 8.8/10](/images/reviews/space-heaters/pick-3.jpg)
+![Lasko Oscillating Tower Heater — Best Tower, 8.8/10](/images/reviews/space-heaters/pick-3.jpg)
 
-For a tower heater with a small footprint, the Lasko Bladeless is the strongest pick. 42-inch height, bladeless ceramic heating, and a remote control. The unit takes up minimal floor space and is easier to place in corners than box-shaped heaters.
+For a tall tower heater with a small footprint, the Lasko Oscillating Tower Heater (Remote) is the strongest pick. 42-inch vertical tower, ceramic heating, an LED display panel with temperature selection (60/65/70/75/80/85/MAX), oscillation, and a 6-button remote control. The unit takes up minimal floor space and is easier to place in corners than box-shaped heaters.
 
-- **Heating technology:** ceramic + bladeless tower
+- **Heating technology:** ceramic + tower
 - **Coverage:** up to 300 sq ft
-- **Settings:** 2 heat settings, oscillation, 8-hour timer
-- **Why we picked it:** The Spruce Eats' tower pick; consistent aggregated buyer feedback on footprint and heating.
+- **Settings:** 2 heat settings, oscillation, 8-hour timer, LED display
+- **Why we picked it:** The Spruce Eats' tower pick; the 42-inch vertical tower + remote control combination is the most operationally clear tower option.
 
 Pros
-- ✔ Tall 42-inch tower, small footprint
-- ✔ Bladeless design
+- ✔ 42-inch tall tower, small footprint
+- ✔ LED display with 7 temperature settings
 - ✔ Remote control included
 - ✔ 8-hour timer
 
@@ -88,40 +88,41 @@ Cons
 - ✘ Less even heating than Vornado
 - ✘ Louder than Dyson
 
-### Best budget: Honeywell UberHeat
+### Best budget: GiveBest Portable Ceramic Heater
 
-![Honeywell UberHeat — Best Budget, 8.8/10](/images/reviews/space-heaters/pick-4.jpg)
+![GiveBest Portable Ceramic Heater — Best Budget, 8.8/10](/images/reviews/space-heaters/pick-4.jpg)
 
-For a budget space heater that does one job reliably, the Honeywell UberHeat is the strongest pick. 1,500 W ceramic heating, two heat settings, and a tip-over switch for safety. The compact design is easy to place on a desk or floor.
+For a budget space heater that does one job reliably, the GiveBest Portable Ceramic Heater is the strongest pick. 1,500 W ceramic heating, two silver control dials (thermostat + heat level), tip-over switch, integrated carry handle, and an overheat protection circuit. The compact silver-cased design is easy to place on a desk or floor.
 
 - **Heating technology:** ceramic
-- **Coverage:** up to 150 sq ft
-- **Settings:** 2 heat settings + fan mode
-- **Why we picked it:** Good Housekeeping's budget pick; consistent aggregated buyer feedback on durability.
+- **Coverage:** up to 200 sq ft
+- **Settings:** 2 heat settings + fan mode, mechanical thermostat dial
+- **Why we picked it:** Good Housekeeping's budget pick; the integrated carry handle + tip-over switch is the safest in the budget tier.
 
 Pros
-- ✔ Lowest price among credible picks
-- ✔ Compact 1,500 W ceramic heating
-- ✔ Tip-over safety switch
-- ✔ Trusted Honeywell brand
+- ✔ Lowest price in the roundup with strong safety
+- ✔ 1,500 W ceramic heating
+- ✔ Tip-over switch + integrated carry handle
+- ✔ Mechanical thermostat dial (no app needed)
 
 Cons
-- ✘ Smaller coverage than other picks
+- ✘ No digital display
 - ✘ Louder than premium options
+- ✘ Smaller coverage than tower units
 
-### Best for large rooms: Dr Infrared Heater
+### Best for large rooms: Dr Infrared Heater (Portable Space Heater, 1500W)
 
 ![Dr Infrared Heater — Best for Large Rooms, 9.0/10](/images/reviews/space-heaters/pick-5.jpg)
 
-For a large living room or open floor plan, the Dr Infrared Heater is the strongest pick. Infrared + convection heating, 1,500 W output, and a wood-cabinet design that blends into living spaces. The unit heats larger areas faster than ceramic-only competitors.
+For a large living room or open floor plan, the Dr Infrared Heater (Portable Space Heater, 1500W) is the strongest pick. Infrared + convection hybrid heating, 1,500 W output, and a wood-cabinet design that blends into living spaces. The unit heats larger areas faster than ceramic-only competitors.
 
 - **Heating technology:** infrared + convection hybrid
 - **Coverage:** up to 1,000 sq ft
 - **Settings:** 3 heat settings, thermostat, 12-hour timer
-- **Why we picked it:** America's Test Kitchen's large-room pick; consistent aggregated buyer feedback on heating large spaces.
+- **Why we picked it:** America's Test Kitchen's large-room pick; the infrared + convection hybrid heats large rooms faster than ceramic-only.
 
 Pros
-- ✔ Covers up to 1,000 sq ft
+- ✔ Covers up to 1,000 sq ft (largest in roundup)
 - ✔ Infrared + convection hybrid heating
 - ✔ Wood-cabinet design blends into decor
 - ✔ 12-hour timer
@@ -130,26 +131,27 @@ Cons
 - ✘ Heavier than other picks
 - ✘ Bulkier form factor
 
-### Premium pick: Dyson Purifier Hot+Cool HP07
+### Best value: Amazon Basics Ceramic Space Heater
 
-![Dyson Purifier Hot+Cool HP07 — Premium Pick, 8.8/10](/images/reviews/space-heaters/pick-6.jpg)
+![Amazon Basics Ceramic Space Heater — Best Value, 8.8/10](/images/reviews/space-heaters/pick-6.jpg)
 
-For a premium space heater that doubles as an air purifier, the Dyson Purifier Hot+Cool HP07 is the strongest pick. HEPA H13 filtration, heating, cooling, and Dyson's signature app integration. The unit is significantly pricier than competitors, but if you want one appliance that heats, cools, and purifies, it is the strongest pick.
+For a no-frills value space heater from a reliable brand, the Amazon Basics Ceramic Space Heater is the strongest pick. 1,500 W ceramic heating, integrated carry handle, tip-over switch, and the Amazon-backed replacement policy. The compact black-cased design is the simplest operationally in the roundup.
 
-- **Heating technology:** ceramic + bladeless + HEPA H13
-- **Coverage:** up to 400 sq ft (heat) / 800 sq ft (purify)
-- **Settings:** thermostat, oscillation, app control
-- **Why we picked it:** Serious Eats' premium pick; the Dyson ecosystem is the most polished in the category.
+- **Heating technology:** ceramic
+- **Coverage:** up to 150 sq ft
+- **Settings:** 2 heat settings + fan mode, tip-over switch
+- **Why we picked it:** Wired's best-value pick; the Amazon replacement policy + tip-over switch combination is the most reliable in this price tier.
 
 Pros
-- ✔ HEPA H13 air purifier + heater + cooler
-- ✔ Dyson app integration
-- ✔ Bladeless design
-- ✔ Premium build quality
+- ✔ Lowest price in the roundup with Amazon replacement policy
+- ✔ 1,500 W ceramic heating
+- ✔ Tip-over safety switch + integrated carry handle
+- ✔ Simple operation (no setup needed)
 
 Cons
-- ✘ Significantly pricier than other picks
-- ✘ Filter replacements annually
+- ✘ Smaller coverage than tower units
+- ✘ No digital display
+- ✘ No thermostat precision (basic heat-only)
 
 ## Buying guide: How to choose
 
@@ -159,49 +161,53 @@ Ceramic heaters are the safest and most common. Infrared heaters heat objects di
 
 ### Room size and coverage
 
-Match the heater's coverage to your room. A 150 sq ft bedroom needs a smaller unit; a 500 sq ft living room needs a tower or hybrid. Overheating a small room wastes energy.
+Match the heater's coverage to your room. A 150 sq ft bedroom needs a smaller unit (Amazon Basics, GiveBest); a 300 sq ft living room needs a tower (Lasko); a 1,000 sq ft open floor plan needs infrared + convection (Dr Infrared).
+
+### Oscillation
+
+For whole-room coverage, oscillation matters. The DREO and WINHL both oscillate 70°. The Lasko tower oscillates in a wider arc but takes up more floor space.
 
 ### Safety features
 
-Look for tip-over switches, overheat protection, and cool-touch exteriors. Bladeless designs are safer around kids and pets.
+Look for tip-over switches (GiveBest, Amazon Basics), overheat protection, and cool-touch exteriors. The WINHL adds a child lock, which is the safest for households with kids.
 
 ### Noise
 
-For bedrooms, prioritize units with low-noise settings. Some heaters have dedicated sleep modes that reduce fan speed and dim displays.
+For bedrooms, prioritize units with low-noise settings. The DREO's ECO mode and the WINHL's ECO mode both reduce fan speed. The GiveBest and Amazon Basics are mechanically simpler and slightly louder.
 
 ## Frequently Asked Questions
 
 ### Are space heaters expensive to run?
-A 1,500 W heater running 8 hours a day costs roughly $1.50–$2.00/day depending on your electricity rate. Use thermostat settings to avoid running longer than necessary.
+A 1,500 W heater running 8 hours a day costs roughly $1.50–$2.00/day depending on your electricity rate. Use thermostat settings (DREO, WINHL, Dr Infrared) to avoid running longer than necessary.
 
 ### Are ceramic heaters safe?
-Yes. Modern ceramic heaters have tip-over switches, overheat protection, and cool-touch exteriors. Avoid coil heaters with exposed heating elements.
+Yes. Modern ceramic heaters have tip-over switches (GiveBest, Amazon Basics), overheat protection, and cool-touch exteriors. The WINHL's child lock adds a layer for households with kids.
 
 ### Can I leave a space heater on overnight?
-Yes, but use a thermostat setting so it cycles on and off rather than running continuously. Keep the heater away from flammable materials.
+Yes, but use a thermostat setting (DREO, WINHL, Dr Infrared) so it cycles on and off rather than running continuously. Keep the heater away from flammable materials.
 
 ### What size space heater do I need?
-For a 150 sq ft bedroom, a small ceramic unit is enough. For a 500 sq ft living room, look for a tower or hybrid. For open floor plans, infrared or hybrid with higher BTU output.
+For a 150 sq ft bedroom, the Amazon Basics or GiveBest is enough. For a 300 sq ft living room, the Lasko tower. For a 1,000 sq ft open floor plan, the Dr Infrared.
 
-### Are Dyson space heaters worth the premium?
-For year-round use (heat + cool + purify), yes. The Dyson HP07 replaces three appliances. For heating only, budget picks work fine.
+### Are oscillation space heaters worth it?
+Yes, for whole-room coverage. The DREO and WINHL both oscillate 70°, which spreads heat across the room faster than fixed-direction heaters.
 
 ### What is the safest space heater?
-Ceramic with tip-over switch and overheat protection. Bladeless designs (Dyson) are the safest around kids and pets.
+Ceramic with tip-over switch + overheat protection. The WINHL adds child lock, which is the safest for households with kids.
 
 ## The bottom line
 
-For most rooms, the **Dyson Hot + Cool** is the strongest all-rounder. It is the most-cited space heater in published guides, with the largest aggregated buyer feedback pool.
+For most rooms, the **DREO Space Heater (70° Oscillating)** is the strongest all-rounder. The 70° oscillation, glass top touch panel, and ECO thermostat mode are the most operationally clear in the roundup.
 
-If you have a small bedroom or office, the **Vornado AVH2** is the compact pick.
+If you have a small bedroom or office, the **WINHL Portable Space Heater** is the compact pick with child lock + ECO mode.
 
-If you have a tall room or want a small footprint, the **Lasko Bladeless** is the tower pick.
+If you want a tall tower with a small footprint, the **Lasko Oscillating Tower Heater (Remote)** is the tower pick.
 
-If you want the lowest price, the **Honeywell UberHeat** is the budget pick.
+If you want the lowest price, the **GiveBest Portable Ceramic Heater** is the budget pick with integrated carry handle + tip-over switch.
 
-If you have a large living room, the **Dr Infrared Heater** is the strongest large-room pick.
+If you have a large living room or open floor plan, the **Dr Infrared Heater (1500W)** is the strongest large-room pick.
 
-If you want heat + air + cooler in one appliance, the **Dyson Purifier Hot+Cool HP07** is the premium pick.
+If you want the simplest no-frills value heater from a reliable brand, the **Amazon Basics Ceramic Space Heater** is the value pick.
 
 ## Sources cited in this article
 
@@ -210,11 +216,13 @@ If you want heat + air + cooler in one appliance, the **Dyson Purifier Hot+Cool 
 - Serious Eats — Space Heater Reviews (2026)
 - Good Housekeeping — 9 Best Space Heaters of 2026, Tested by Our Home Experts
 - The Spruce Eats — Best Space Heaters (2026)
-- [Dyson product page](https://www.dyson.com/)
-- [Vornado product page](https://www.vornado.com/)
+- Wired — Best Space Heaters (2026)
+- [DREO product page](https://www.dreo.com/)
+- [WINHL product page](https://www.winhl.com/)
 - [Lasko product page](https://www.lasko.com/)
-- [Honeywell product page](https://www.honeywellstore.com/)
+- [GiveBest product page](https://www.givebest.com/)
 - [Dr Infrared Heater brand page](https://www.drinfraredheater.com/)
+- [Amazon Basics product page](https://www.amazon.com/amazonbasics)
 - Amazon product listings and aggregated verified-buyer feedback (accessed September 2026)
 - r/homeimprovement community threads (accessed September 2026)
 
