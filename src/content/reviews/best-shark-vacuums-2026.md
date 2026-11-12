@@ -122,7 +122,8 @@ Cons
 - ✘ Larger footprint than a slim cordless stick
 - ✘ Runtime still drops when the floor head is attached and in boost
 
-[See the Shark Vertex Cordless IZ464H on Amazon](https://www.amazon.com/dp/B0DY9QN5XV)
+<a class="cta" href="https://www.amazon.com/dp/B0DY9QN5XV" target="_blank" rel="noopener nofollow">View the Shark Vertex Cordless IZ464H on Amazon</a>
+<p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ### Best self-cleaning brushroll upright: Shark Navigator ZU503AMZ
 
@@ -149,7 +150,8 @@ Cons
 - ✘ Teal finish shows dust and hair on the body
 - ✘ Bulkier than slim cordless alternatives for small flats
 
-[See the Shark Navigator ZU503AMZ on Amazon](https://www.amazon.com/dp/B08TT4YHG1)
+<a class="cta" href="https://www.amazon.com/dp/B08TT4YHG1" target="_blank" rel="noopener nofollow">View the Shark Navigator ZU503AMZ on Amazon</a>
+<p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ### Best for low-profile cleaning: Shark PowerPro Flex Pet Plus IZ388H
 
@@ -176,7 +178,8 @@ Cons
 - ✘ Articulated wand is bulkier to store than a fixed tube
 - ✘ Lightest-cream finish shows hair readily
 
-[See the Shark PowerPro Flex Pet Plus IZ388H on Amazon](https://www.amazon.com/dp/B0H8W28HSD)
+<a class="cta" href="https://www.amazon.com/dp/B0H8W28HSD" target="_blank" rel="noopener nofollow">View the Shark PowerPro Flex Pet Plus IZ388H on Amazon</a>
+<p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ### Best for embedded hair and odor: Shark Stratos AZ3002
 
@@ -203,7 +206,8 @@ Cons
 - ✘ Least-reviewed model in the roundup, so long-term feedback is thinner
 - ✘ Heaviest upright here; less convenient to carry between floors
 
-[See the Shark Stratos AZ3002 on Amazon](https://www.amazon.com/dp/B0B2VTZ432)
+<a class="cta" href="https://www.amazon.com/dp/B0B2VTZ432" target="_blank" rel="noopener nofollow">View the Shark Stratos AZ3002 on Amazon</a>
+<p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ## Buying guide: How to choose a Shark vacuum
 
