@@ -260,6 +260,13 @@ declare module 'astro:content' {
   collection: "reviews";
   data: InferEntrySchema<"reviews">
 } & { render(): Render[".md"] };
+"best-shark-vacuums-2026.md": {
+	id: "best-shark-vacuums-2026.md";
+  slug: "best-shark-vacuums-2026";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
 "best-single-serve-coffee-makers-2026.md": {
 	id: "best-single-serve-coffee-makers-2026.md";
   slug: "best-single-serve-coffee-makers-2026";
@@ -291,6 +298,13 @@ declare module 'astro:content' {
 "best-steak-knife-set-2026.md": {
 	id: "best-steak-knife-set-2026.md";
   slug: "best-steak-knife-set-2026";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"shark-flexstyle-hd430-review.md": {
+	id: "shark-flexstyle-hd430-review.md";
+  slug: "shark-flexstyle-hd430-review";
   body: string;
   collection: "reviews";
   data: InferEntrySchema<"reviews">

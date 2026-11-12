@@ -307,6 +307,29 @@ a:hover { color: var(--color-accent); }
   border-radius: 3px;
   font-size: 0.9em;
 }
+.prose .cta {
+  display: inline-block;
+  padding: 0.8rem 1.6rem;
+  background: var(--color-accent);
+  color: #fff;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none;
+  border-radius: 4px;
+  margin: 0.25rem 0 1.25rem;
+  transition: background 0.2s ease;
+}
+.prose .cta:hover {
+  background: var(--color-accent-dark);
+  color: #fff;
+}
+.prose .cta-note {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin: -0.75rem 0 1.5rem;
+}
 .prose img {
   max-width: 100%;
   height: auto;
