@@ -302,9 +302,37 @@ declare module 'astro:content' {
   collection: "reviews";
   data: InferEntrySchema<"reviews">
 } & { render(): Render[".md"] };
+"best-tcl-tablets-2026.md": {
+	id: "best-tcl-tablets-2026.md";
+  slug: "best-tcl-tablets-2026";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
 "shark-flexstyle-hd430-review.md": {
 	id: "shark-flexstyle-hd430-review.md";
   slug: "shark-flexstyle-hd430-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"tcl-tab-10-gen-4-review.md": {
+	id: "tcl-tab-10-gen-4-review.md";
+  slug: "tcl-tab-10-gen-4-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"tcl-tab-a1-plus-review.md": {
+	id: "tcl-tab-a1-plus-review.md";
+  slug: "tcl-tab-a1-plus-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"tcl-tab-a1-review.md": {
+	id: "tcl-tab-a1-review.md";
+  slug: "tcl-tab-a1-review";
   body: string;
   collection: "reviews";
   data: InferEntrySchema<"reviews">
