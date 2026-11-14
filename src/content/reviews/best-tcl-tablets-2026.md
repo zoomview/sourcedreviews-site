@@ -78,7 +78,7 @@ The display is an 11-inch 2.1K panel at 2112 by 1320 pixels in a 16:10 shape, ru
 
 Underneath sits a MediaTek Helio G100, a 6nm octa-core chip paired with TCL's NXTURBO hardware-software optimization. It is a more modest piece of silicon than the Snapdragon in the A1 Plus, and Notebookcheck's launch coverage of the A1 and the A1 NxTPAPER described the pair as affordable 11-inch tablets built around a 90Hz panel and the 8,000mAh battery rather than around performance. If the A1 Plus is the better tablet and the A1 is the smarter purchase, this is why.
 
-![TCL TAB A1 graphic showing the 11-inch 2K display, 650 nits, metal unibody at 430g and 6.2mm, and the 8000mAh battery](/images/reviews/tcl-tablets/a1-display.jpg)
+![TCL TAB A1 graphic showing the 11-inch 2.1K display, 650 nits, metal unibody at 430g and 6.2mm, and the 8000mAh battery](/images/reviews/tcl-tablets/a1-display.jpg)
 
 ![A woman on a video call watching a child and a dog on a TCL TAB A1 held in landscape orientation](/images/reviews/tcl-tablets/a1-family.jpg)
 

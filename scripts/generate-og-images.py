@@ -71,19 +71,28 @@ def cover(img, width, height):
 
 
 def scrim(img):
-    """Darken the frame and deepen the lower-left corner so text stays legible."""
+    """Darken the frame, deepen the lower-left corner for the headline, and shade
+    the top band so the wordmark and category eyebrow stay legible even when the
+    hero image is pale in that corner."""
     base = img.convert("RGB")
     veil = Image.new("RGB", base.size, (8, 12, 20))
     base = Image.blend(base, veil, 0.34)
+
+    dark = Image.new("RGB", base.size, (6, 10, 18))
 
     grad = Image.new("L", (1, base.size[1]))
     for y in range(base.size[1]):
         t = y / max(1, base.size[1] - 1)
         grad.putpixel((0, y), int(235 * max(0.0, (t - 0.18) / 0.82) ** 1.35))
     grad = grad.resize(base.size)
+    base = Image.composite(dark, base, grad)
 
-    dark = Image.new("RGB", base.size, (6, 10, 18))
-    return Image.composite(dark, base, grad)
+    top = Image.new("L", (1, base.size[1]))
+    for y in range(base.size[1]):
+        t = y / max(1, base.size[1] - 1)
+        top.putpixel((0, y), int(185 * max(0.0, (0.36 - t) / 0.36) ** 1.1))
+    top = top.resize(base.size)
+    return Image.composite(dark, base, top)
 
 
 def wrap(draw, text, font, max_width):

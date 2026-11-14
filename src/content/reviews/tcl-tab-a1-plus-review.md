@@ -18,7 +18,7 @@ The A1 Plus is the largest and most expensive tablet TCL sells in this range. It
 
 What matters here is that this is not a tablet with a large screen and entry-level everything else. The display, the build, the battery, and the software are all at or above the level of the rest of TCL's range, and the price reflects that.
 
-![TCL TAB A1 Plus display graphic showing the 12.2-inch 2.4K panel, NXTVISION enhancement, and 120Hz refresh rate](/images/reviews/tcl-tab-a1-plus/pick-1.jpg)
+![TCL TAB A1 Plus graphic showing a woman watching video on the tablet, with the 12.2-inch 2.4K display, 120Hz refresh rate, 550 nits brightness, and 100% sRGB color](/images/reviews/tcl-tab-a1-plus/pick-1.jpg)
 
 - **Display:** 12.2-inch 2.4K (2400 × 1600), 120Hz, 550 nits, 100% sRGB, 3:2 aspect ratio, DC dimming
 - **Processor and memory:** Snapdragon 4 Gen 2 (4nm) with LPDDR5, 6GB RAM plus up to 10GB expansion (16GB total), Adreno 613 graphics

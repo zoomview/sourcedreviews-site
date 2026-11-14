@@ -26,7 +26,7 @@ The A1 is an 11-inch Android 16 tablet built on a MediaTek Helio G100 octa-core 
 
 The 11-inch panel runs at 2112 by 1320 pixels in a 16:10 shape with an adaptive 90Hz refresh rate and TCL's NXTVISION color enhancement. Four speakers with Sound Booster handle audio, and the 5MP front camera sits centered on the long edge with CenterFace tracking to keep you framed in video calls.
 
-![TCL TAB A1 display graphic showing the 11-inch 2K panel, 650 nits, metal unibody at 430g and 6.2mm, AI features, and the 8000mAh battery](/images/reviews/tcl-tab-a1/pick-1.jpg)
+![TCL TAB A1 graphic showing a parent and child watching a film together, with the 11-inch 2K display, 90Hz refresh rate, 650 nits peak brightness, NXTVISION color enhancement, and quad speakers](/images/reviews/tcl-tab-a1/pick-1.jpg)
 
 - **Display:** 11-inch 2.1K (2112 × 1320), adaptive 90Hz, up to 650 nits peak, 16:10, NXTVISION enhancement
 - **Processor and memory:** MediaTek Helio G100 octa-core (6nm) with NXTURBO, 6GB RAM plus up to 10GB expansion (16GB total)

@@ -10,7 +10,7 @@ author: "Ryan Mitchell"
 
 The TCL TAB 10 Gen 4 is the most simply specified tablet in TCL's range, and that is not an insult — it is the point of the product. It is the smallest, the lightest, the only one with a headphone jack, and the only one whose entire software pitch is aimed at a parent handing a device to a child. Where the A1 Plus spends its budget on a 2.4K 120Hz panel and an aluminum body, the TAB 10 Gen 4 spends it on being portable and on having the parental controls switched on from the first boot.
 
-What you get for that is a 10.1-inch IPS panel at 1920 by 1200 in a 16:10 shape with TCL's NXTVISION enhancement, a MediaTek MT8786V octa-core chip with NXTURBO, Android 15, a 6,000mAh battery with up to 18W charging, and a metal unibody body at 7.55mm and 395g. You also get a 3.5mm headphone jack, which no other tablet in this range has.
+What you get for that is a 10.1-inch IPS panel at 1920 by 1200 in a 16:10 shape with TCL's NXTVISION enhancement, a MediaTek MT8786V octa-core chip with NXTURBO, Android 15, a 6,000mAh battery with up to 18W charging, and a metal unibody body at 7.5mm and 395g. You also get a 3.5mm headphone jack, which no other tablet in this range has.
 
 This is a single-product review, not a roundup. We base it on manufacturer specifications, published coverage of the range, and aggregated verified-buyer feedback rather than our own trials. Our full method is on the [Our Method](/our-method/) page, and every source we relied on is listed at the bottom. We did not perform hands-on testing of this product.
 
