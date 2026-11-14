@@ -6,7 +6,7 @@ date: 2026-09-24
 author: "Ethan Carter"
 ---
 
-![Best Slow Cookers 2026 — Six picks reviewed, independent editorial](/images/reviews/slow-cookers/hero.jpg)
+![Best Slow Cookers 2026 — Six picks reviewed, independent editorial](/images/reviews/slow-cookers/lead.jpg)
 
 A slow cooker is one of the most forgiving appliances you can own — load it in the morning, eat at night. The category has not changed much in 20 years, but the programmability and cleanability of newer models have meaningfully improved. We compared the best slow cookers of 2026 across capacity, programmability, cleanability, and value.
 

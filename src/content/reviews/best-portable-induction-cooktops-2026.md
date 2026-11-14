@@ -6,7 +6,7 @@ date: 2026-09-24
 author: "Daniel Reeves"
 ---
 
-![Best Portable Induction Cooktops 2026 — Five picks for any kitchen, independent editorial review](/images/reviews/portable-induction/hero.jpg)
+![Best Portable Induction Cooktops 2026 — Five picks for any kitchen, independent editorial review](/images/reviews/portable-induction/lead.jpg)
 
 A portable induction cooktop is one of the most useful pieces of kitchen equipment you can buy — and an underrated one. Induction heats faster than gas or electric, wastes less energy, and stays cool enough to touch a few seconds after you turn it off. For small kitchens, dorm rooms, RVs, and outdoor cooking on a patio, an induction cooktop beats nearly every alternative.
 

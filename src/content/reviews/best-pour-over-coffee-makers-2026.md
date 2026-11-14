@@ -5,11 +5,11 @@ slug: best-pour-over-coffee-makers-2026
 date: 2026-09-24
 category: Kitchen
 author: Ethan Carter
-hero_image: /images/reviews/pour-over-coffee-makers/hero.jpg
+hero_image: /images/reviews/pour-over-coffee-makers/lead.jpg
 tags: [pour-over, coffee-makers, kitchen]
 ---
 
-![Best Pour-Over Coffee Makers of 2026: Six Picks from Manual to Insulated](/images/reviews/pour-over-coffee-makers/hero.jpg)
+![Best Pour-Over Coffee Makers of 2026: Six Picks from Manual to Insulated](/images/reviews/pour-over-coffee-makers/lead.jpg)
 
 Pour-over is the brewing method specialty coffee shops use for a reason: it gives you control over pour rate, water temperature, and contact time. After reading Wirecutter's pour-over guide, Perfect Daily Grind's reviews, and home-barista forum consensus, plus aggregating verified-buyer feedback from 18,000+ Amazon reviews, these are the six pour-over setups we'd actually recommend.
 

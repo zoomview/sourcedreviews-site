@@ -17,6 +17,9 @@ import sys
 
 from PIL import Image, ImageDraw, ImageFont
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import imagekit
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REVIEWS = os.path.join(ROOT, "src", "content", "reviews")
 IMAGES = os.path.join(ROOT, "public", "images", "reviews")
@@ -24,7 +27,11 @@ OUT = os.path.join(ROOT, "public", "og")
 
 W, H = 1200, 630
 MARGIN = 72
-MAX_TITLE_LINES = 3
+MAX_TITLE_LINES = 4
+# The complete photo sits on the right; the headline column on the left never
+# overlaps it, so nothing in the picture is covered up either.
+TEXT_W = 556
+PRODUCT_BOX = (648, 24, 1188, 606)
 
 FONT_DIR = "C:/Windows/Fonts"
 SERIF_BOLD = os.path.join(FONT_DIR, "georgiab.ttf")
@@ -59,31 +66,28 @@ def article_image_dirs():
     return dict(re.findall(r"'([^']+)'\s*:\s*'([^']+)'", block))
 
 
-def cover(img, width, height):
-    """Scale and centre-crop to exactly width x height."""
-    sw, sh = img.size
-    scale = max(width / sw, height / sh)
-    nw, nh = int(sw * scale + 0.5), int(sh * scale + 0.5)
-    img = img.resize((nw, nh), Image.LANCZOS)
-    left = (nw - width) // 2
-    top = (nh - height) // 2
-    return img.crop((left, top, left + width, top + height))
-
-
 def scrim(img):
-    """Darken the frame, deepen the lower-left corner for the headline, and shade
-    the top band so the wordmark and category eyebrow stay legible even when the
-    hero image is pale in that corner."""
+    """Darken the frame, deepen the LEFT column for the headline, and shade the
+    top band so the wordmark and category eyebrow stay legible even when the
+    hero image is pale in that corner. The right side keeps more light so the
+    product stays readable."""
     base = img.convert("RGB")
     veil = Image.new("RGB", base.size, (8, 12, 20))
-    base = Image.blend(base, veil, 0.34)
+    base = Image.blend(base, veil, 0.30)
 
     dark = Image.new("RGB", base.size, (6, 10, 18))
+
+    side = Image.new("L", (base.size[0], 1))
+    for x in range(base.size[0]):
+        t = x / max(1, base.size[0] - 1)
+        side.putpixel((x, 0), int(230 * max(0.0, (0.56 - t) / 0.56) ** 1.05))
+    side = side.resize(base.size)
+    base = Image.composite(dark, base, side)
 
     grad = Image.new("L", (1, base.size[1]))
     for y in range(base.size[1]):
         t = y / max(1, base.size[1] - 1)
-        grad.putpixel((0, y), int(235 * max(0.0, (t - 0.18) / 0.82) ** 1.35))
+        grad.putpixel((0, y), int(150 * max(0.0, (t - 0.30) / 0.70) ** 1.3))
     grad = grad.resize(base.size)
     base = Image.composite(dark, base, grad)
 
@@ -119,19 +123,27 @@ def wrap(draw, text, font, max_width):
 
 def fit_title(draw, text, max_width):
     """Return (font, lines, line_height) using the largest size that fits."""
-    for size in (60, 54, 48, 42, 38, 34, 30):
+    for size in (52, 48, 44, 40, 36, 32, 28, 25):
         font = ImageFont.truetype(SERIF_BOLD, size)
         lines, truncated = wrap(draw, text, font, max_width)
         if not truncated:
             return font, lines, int(draw.textbbox((0, 0), "Ag", font=font)[3] * 1.18)
-    font = ImageFont.truetype(SERIF_BOLD, 30)
+    font = ImageFont.truetype(SERIF_BOLD, 25)
     lines, _ = wrap(draw, text, font, max_width)
-    return font, lines, 36
+    return font, lines, 32
 
 
 def build_card(hero_path, title, category):
-    img = cover(Image.open(hero_path), W, H)
-    canvas = scrim(img)
+    # Lossless base: the COMPLETE photo is composited into the 1200x630 card
+    # and placed on the right, so the headline column on the left stays clear
+    # and no part of the product is cropped or covered. The old `cover()`
+    # centre-crop sliced the top and bottom off every portrait product shot.
+    src = Image.open(hero_path).convert("RGB")
+    base = imagekit.composite(
+        src, W, H, backdrop="blur", darken=0.86,
+        fg_box=PRODUCT_BOX, fg_scale=0.99, fg_align="right",
+    )
+    canvas = scrim(base)
     draw = ImageDraw.Draw(canvas)
 
     eyebrow_font = ImageFont.truetype(SANS_BOLD, 24)
@@ -144,7 +156,7 @@ def build_card(hero_path, title, category):
     if category:
         draw.text((MARGIN, 116), category.upper(), font=eyebrow_font, fill=ACCENT)
 
-    font, lines, line_h = fit_title(draw, title, W - 2 * MARGIN)
+    font, lines, line_h = fit_title(draw, title, TEXT_W)
     y = H - MARGIN - len(lines) * line_h - 14
     for line in lines:
         draw.text((MARGIN, y), line, font=font, fill=WHITE)

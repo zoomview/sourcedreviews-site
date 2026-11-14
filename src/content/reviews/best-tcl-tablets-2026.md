@@ -6,7 +6,7 @@ date: 2026-11-14
 author: "Ryan Mitchell"
 ---
 
-![TCL TAB A1 Plus tablet showing a colorful display in front of its blue metal body](/images/reviews/tcl-tablets/hero.jpg)
+![TCL TAB A1 Plus tablet showing a colorful display in front of its blue metal body](/images/reviews/tcl-tablets/lead.jpg)
 
 TCL's tablet range is unusually coherent for a budget brand. Three models cover almost the entire market, and they differ less by generation than by screen size — which is the decision that shapes everything else. The TAB A1 Plus is a 12.2-inch 2.4K panel running at 120Hz, built on a Snapdragon 4 Gen 2 with IP54 protection. The TAB A1 is an 11-inch 2.1K screen at 90Hz, with the same 8,000mAh battery, the same IP54 rating, and a smaller, lighter body. The TAB 10 Gen 4 is a 10.1-inch FHD tablet at 395g, built for reading, video, and children.
 

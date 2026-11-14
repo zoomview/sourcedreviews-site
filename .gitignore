@@ -25,3 +25,8 @@ pnpm-debug.log*
 # astro
 .astro/docs/
 public/images/reviews/.wrong/
+
+# local scratch / python cache
+.scratch/
+__pycache__/
+*.pyc

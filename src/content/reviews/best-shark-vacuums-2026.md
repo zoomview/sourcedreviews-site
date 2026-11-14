@@ -6,7 +6,7 @@ date: 2026-11-12
 author: "Ethan Carter"
 ---
 
-![Shark cordless stick vacuum with LED floor head picking up debris on a hardwood floor](/images/reviews/shark-vacuums/hero.jpg)
+![Shark cordless stick vacuum with LED floor head picking up debris on a hardwood floor](/images/reviews/shark-vacuums/lead.jpg)
 
 Shark has quietly become one of the most dependable names in floor care, and the range is broad enough to be confusing. The brand sells cordless stick vacuums for quick pickups, self-cleaning uprights for carpets, powered lift-away uprights for deep cleaning, and bagless models for allergy households. Almost every one of them is genuinely good. Almost none of them are good at everything.
 

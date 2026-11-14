@@ -6,7 +6,7 @@ date: 2026-11-12
 author: "Ryan Mitchell"
 ---
 
-![Shark FlexStyle HD430 auto-wrap curler wrapped in brown hair](/images/reviews/shark-flexstyle/hero.jpg)
+![Shark FlexStyle HD430 auto-wrap curler wrapped in brown hair](/images/reviews/shark-flexstyle/lead.jpg)
 
 Multi-stylers promise to replace the shelf of tools above your sink, and most of them quietly do not — you end up buying the attachments anyway, and the one you use most is the cheapest one in the box. The Shark FlexStyle HD430 is more interesting than that, because the auto-wrap curler is the centrepiece rather than an afterthought, and the whole system runs off a single motor with magnetic attachments that click on and off.
 

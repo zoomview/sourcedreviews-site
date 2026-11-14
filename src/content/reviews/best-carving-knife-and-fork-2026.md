@@ -5,11 +5,11 @@ slug: best-carving-knife-and-fork-2026
 date: 2026-09-24
 category: Kitchen
 author: Ethan Carter
-hero_image: /images/reviews/carving-knife-and-fork/hero.jpg
+hero_image: /images/reviews/carving-knife-and-fork/lead.jpg
 tags: [carving-knife, fork-set, kitchen, knives]
 ---
 
-![Best Carving Knife and Fork Sets of 2026: Six Picks for Holiday Roasts](/images/reviews/carving-knife-and-fork/hero.jpg)
+![Best Carving Knife and Fork Sets of 2026: Six Picks for Holiday Roasts](/images/reviews/carving-knife-and-fork/lead.jpg)
 
 A sharp carving knife and sturdy fork is the difference between a clean slice and a torn roast. After reading Wirecutter's knife guide, America's Test Kitchen's blade reviews, and Serious Eats' holiday prep guide, plus aggregating verified-buyer feedback from 14,000+ Amazon reviews, these are the six carving sets worth your money.
 

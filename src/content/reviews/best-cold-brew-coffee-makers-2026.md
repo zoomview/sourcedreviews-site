@@ -5,11 +5,11 @@ slug: best-cold-brew-coffee-makers-2026
 date: 2026-09-24
 category: Kitchen
 author: Ethan Carter
-hero_image: /images/reviews/cold-brew-coffee-makers/hero.jpg
+hero_image: /images/reviews/cold-brew-coffee-makers/lead.jpg
 tags: [cold-brew, coffee-makers, kitchen]
 ---
 
-![Best Cold Brew Coffee Makers of 2026: Six Picks for Smooth, Low-Acid Coffee](/images/reviews/cold-brew-coffee-makers/hero.jpg)
+![Best Cold Brew Coffee Makers of 2026: Six Picks for Smooth, Low-Acid Coffee](/images/reviews/cold-brew-coffee-makers/lead.jpg)
 
 Cold brew coffee is brewed with cold or room-temperature water over 12–24 hours, producing a smoother, less acidic concentrate. After reading Wirecutter's cold brew guide, Serious Eats' brewing reviews, and Spruce Eats' comparisons, plus aggregating verified-buyer feedback from 15,000+ Amazon reviews, these are the six cold brew makers we'd actually recommend.
 

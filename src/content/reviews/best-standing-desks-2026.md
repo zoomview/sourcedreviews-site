@@ -5,11 +5,11 @@ slug: best-standing-desks-2026
 date: 2026-09-24
 category: Tech
 author: Ryan Mitchell
-hero_image: /images/reviews/standing-desks/hero.jpg
+hero_image: /images/reviews/standing-desks/lead.jpg
 tags: [standing-desks, office, tech]
 ---
 
-![Best Standing Desks of 2026: Six Picks for Home and Office](/images/reviews/standing-desks/hero.jpg)
+![Best Standing Desks of 2026: Six Picks for Home and Office](/images/reviews/standing-desks/lead.jpg)
 
 Standing desks have become standard equipment for home offices. The benefits of alternating between sitting and standing are well-documented. After reading Wirecutter's standing desk guide, The Strategist's home office picks, and CNET's 2026 update, plus aggregating verified-buyer feedback from 18,000+ Amazon reviews, these are the six standing desks we'd actually recommend.
 

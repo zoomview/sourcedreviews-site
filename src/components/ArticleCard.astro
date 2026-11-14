@@ -65,7 +65,10 @@ const imageSlug = ARTICLE_TO_IMAGE_DIR[slug];
 // Every entry in ARTICLE_TO_IMAGE_DIR has a hero.jpg on disk, so hasImage
 // reduces to "do we have a mapping for this slug"
 const hasImage = !!imageSlug;
-const heroImage = hasImage ? `/images/reviews/${imageSlug}/hero.jpg` : null;
+// Each article directory ships a `lead.jpg`: a 1600x900 lossless composite
+// that already contains the COMPLETE product photo (nothing trimmed, nothing
+// cropped), so the card's 16:9 box can never slice a product in half.
+const heroImage = hasImage ? `/images/reviews/${imageSlug}/lead.jpg` : null;
 const categorySlug = category.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 const variantClass = variant !== 'default' ? ` article-card--${variant}` : '';
@@ -78,8 +81,8 @@ const variantClass = variant !== 'default' ? ` article-card--${variant}` : '';
         alt={title}
         class="article-card__image"
         loading="lazy"
-        width="600"
-        height="450"
+        width="1600"
+        height="900"
       />
     </a>
   )}

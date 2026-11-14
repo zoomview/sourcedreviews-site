@@ -6,7 +6,7 @@ date: 2026-11-14
 author: "Ryan Mitchell"
 ---
 
-![TCL TAB A1 tablet showing its blue back with the circular dual camera module next to the front display](/images/reviews/tcl-tab-a1/hero.jpg)
+![TCL TAB A1 tablet showing its blue back with the circular dual camera module next to the front display](/images/reviews/tcl-tab-a1/lead.jpg)
 
 The TCL TAB A1 is the middle tablet in TCL's range, and middle is where the compromises live. It is smaller than the TAB A1 Plus and larger than the TAB 10 Gen 4, it carries the same 8,000mAh battery as the bigger model, and it is the one in the family with the fewest published hands-on impressions. That combination makes it the hardest to write about and, potentially, the easiest to get a good deal on.
 

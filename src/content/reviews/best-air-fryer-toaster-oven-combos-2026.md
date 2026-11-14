@@ -6,7 +6,7 @@ date: 2026-09-24
 author: "Daniel Reeves"
 ---
 
-![Best Air Fryer Toaster Oven Combos 2026 — Six picks across budgets, independent editorial review](/images/reviews/air-fryer-toaster-oven/hero.jpg)
+![Best Air Fryer Toaster Oven Combos 2026 — Six picks across budgets, independent editorial review](/images/reviews/air-fryer-toaster-oven/lead.jpg)
 
 A counter-top oven that crisps like an air fryer is one of the most useful kitchen purchases you can make this year. They toast, they bake, they roast, they reheat, and they air-fry a basket of wings in about half the time a conventional oven takes — without heating up the whole kitchen. The category has matured enough that there are now real choices across every price tier.
 

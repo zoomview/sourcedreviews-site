@@ -6,7 +6,7 @@ date: 2026-09-24
 author: "Ethan Carter"
 ---
 
-![Best Electric Kettles 2026 — Six picks reviewed, independent editorial](/images/reviews/electric-kettles/hero.jpg)
+![Best Electric Kettles 2026 — Six picks reviewed, independent editorial](/images/reviews/electric-kettles/lead.jpg)
 
 An electric kettle boils water faster than a stovetop kettle, shuts off automatically, and frees up your cooktop. The category has matured into a real market — variable-temperature kettles for pour-over, gooseneck spouts for manual brewing, and glass/stainless bodies for different aesthetics. We compared the best electric kettles of 2026 across boil speed, capacity, temperature control, and value.
 

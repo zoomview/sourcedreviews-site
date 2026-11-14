@@ -6,7 +6,7 @@ date: 2026-11-14
 author: "Ryan Mitchell"
 ---
 
-![TCL TAB 10 Gen 4 showing its purple 10:00 clock screen in front of the dark metal back with the corner camera module](/images/reviews/tcl-tab-10-gen-4/hero.jpg)
+![TCL TAB 10 Gen 4 showing its purple 10:00 clock screen in front of the dark metal back with the corner camera module](/images/reviews/tcl-tab-10-gen-4/lead.jpg)
 
 The TCL TAB 10 Gen 4 is the most simply specified tablet in TCL's range, and that is not an insult — it is the point of the product. It is the smallest, the lightest, the only one with a headphone jack, and the only one whose entire software pitch is aimed at a parent handing a device to a child. Where the A1 Plus spends its budget on a 2.4K 120Hz panel and an aluminum body, the TAB 10 Gen 4 spends it on being portable and on having the parental controls switched on from the first boot.
 

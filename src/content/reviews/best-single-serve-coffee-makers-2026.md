@@ -5,11 +5,11 @@ slug: best-single-serve-coffee-makers-2026
 date: 2026-09-24
 category: Kitchen
 author: Ethan Carter
-hero_image: /images/reviews/single-serve-coffee-makers/hero.jpg
+hero_image: /images/reviews/single-serve-coffee-makers/lead.jpg
 tags: [single-serve, coffee-makers, keurig, kitchen]
 ---
 
-![Best Single-Serve Coffee Makers of 2026: Six Picks for One Cup at a Time](/images/reviews/single-serve-coffee-makers/hero.jpg)
+![Best Single-Serve Coffee Makers of 2026: Six Picks for One Cup at a Time](/images/reviews/single-serve-coffee-makers/lead.jpg)
 
 Single-serve coffee makers are ideal for solo drinkers, small households, and offices where everyone wants different drinks. After reading Wirecutter's single-serve guide, CNET's 2026 update, and Spruce Eats' reviews, plus aggregating verified-buyer feedback from 20,000+ Amazon reviews, these are the six single-serve brewers worth your money.
 

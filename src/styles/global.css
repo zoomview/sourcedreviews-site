@@ -183,7 +183,7 @@ a:hover { color: var(--color-accent); }
 .article-card__image-link {
   display: block;
   overflow: hidden;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 16 / 9;
   background: #f4f4f4;
 }
 .article-card__image {
@@ -193,7 +193,6 @@ a:hover { color: var(--color-accent); }
   object-fit: cover;
   transition: transform 0.3s;
 }
-.article-card:hover .article-card__image { transform: scale(1.04); }
 
 .article-card__content {
   padding: 1.25rem 1.5rem 1.5rem;
@@ -241,7 +240,7 @@ a:hover { color: var(--color-accent); }
 /* Featured grid variants */
 .article-card--featured-main .article-card__title { font-size: 1.85rem; line-height: 1.2; }
 .article-card--featured-main .article-card__summary { font-size: 1.02rem; }
-.article-card--featured-main .article-card__image-link { aspect-ratio: 16 / 10; }
+.article-card--featured-main .article-card__image-link { aspect-ratio: 16 / 9; }
 
 .article-card--featured-side .article-card__title { font-size: 1.05rem; }
 .article-card--featured-side .article-card__summary { font-size: 0.88rem; -webkit-line-clamp: 3; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
@@ -337,13 +336,14 @@ a:hover { color: var(--color-accent); }
   margin: 2.25rem auto;
   border-radius: 4px;
 }
+/* The lead image is a 16:9 composite that already contains the complete
+   product photo, so it renders at its natural ratio and is never cropped. */
 .prose img:first-of-type {
   max-width: var(--max-width-wide);
   width: 100%;
+  height: auto;
   margin-top: 0.5rem;
   margin-bottom: 2.5rem;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
 }
 .prose figure { margin: 2.25rem 0; }
 .prose figure img { margin: 0 auto; }

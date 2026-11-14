@@ -6,7 +6,7 @@ date: 2026-11-14
 author: "Ryan Mitchell"
 ---
 
-![TCL TAB A1 Plus tablet showing its 12.2-inch display in front of the blue metal back with the circular camera module](/images/reviews/tcl-tab-a1-plus/hero.jpg)
+![TCL TAB A1 Plus tablet showing its 12.2-inch display in front of the blue metal back with the circular camera module](/images/reviews/tcl-tab-a1-plus/lead.jpg)
 
 Ask three reviewers about the TCL TAB A1 Plus and you will get three different numbers. WIRED gave it 7 out of 10. Techaeris gave it 9.0 out of 10. PCMag gave it 2.5 out of 5 and called it Fair. That is not a contradiction so much as a map of where the disagreement sits: every one of those reviews praises the hardware and every one of them finds something wrong with what the hardware is asked to do. This review is an attempt to work out which of those criticisms should change your buying decision and which should not.
 

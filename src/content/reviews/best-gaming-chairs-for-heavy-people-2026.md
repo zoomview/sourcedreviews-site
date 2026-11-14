@@ -5,11 +5,11 @@ slug: best-gaming-chairs-for-heavy-people-2026
 date: 2026-09-24
 category: Tech
 author: Ryan Mitchell
-hero_image: /images/reviews/gaming-chairs-for-heavy-people/hero.jpg
+hero_image: /images/reviews/gaming-chairs-for-heavy-people/lead.jpg
 tags: [gaming-chairs, heavy-people, tech]
 ---
 
-![Best Gaming Chairs for Heavy People of 2026: Five Picks With 350+ lb Capacity](/images/reviews/gaming-chairs-for-heavy-people/hero.jpg)
+![Best Gaming Chairs for Heavy People of 2026: Five Picks With 350+ lb Capacity](/images/reviews/gaming-chairs-for-heavy-people/lead.jpg)
 
 Standard gaming chairs max out at 250–280 lbs. Heavy gamers need chairs built for higher weight capacities with wider seats and stronger frames. After reading Wirecutter's heavy-duty chair guide, Big & Tall furniture reviews, and verified-buyer feedback from 6,000+ Amazon reviews, these are the five gaming chairs for heavy people we'd actually recommend.
 
