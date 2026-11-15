@@ -337,6 +337,34 @@ declare module 'astro:content' {
   collection: "reviews";
   data: InferEntrySchema<"reviews">
 } & { render(): Render[".md"] };
+"ulike-air-10-deluxe-review.md": {
+	id: "ulike-air-10-deluxe-review.md";
+  slug: "ulike-air-10-deluxe-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"ulike-air-10-razor-bundle-review.md": {
+	id: "ulike-air-10-razor-bundle-review.md";
+  slug: "ulike-air-10-razor-bundle-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"ulike-air-10-review.md": {
+	id: "ulike-air-10-review.md";
+  slug: "ulike-air-10-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"ulike-reglow-lite-led-mask-review.md": {
+	id: "ulike-reglow-lite-led-mask-review.md";
+  slug: "ulike-reglow-lite-led-mask-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
 };
 
 	};
