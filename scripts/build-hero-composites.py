@@ -34,10 +34,20 @@ W, H = 1600, 900
 OUT_NAME = "lead.jpg"
 QUALITY = 86
 
+# The automatic studio/scene heuristic reads a bright outer border as a
+# studio sweep. Two of the Ulike Air 10 hero photos are lifestyle scenes on a
+# bright bathroom backdrop, so they were mis-detected and got flat empty
+# bands down both sides of the 16:9 frame. These directories are scene shots
+# and use the blurred self-backdrop, like the Shark and TCL lifestyle photos.
+SCENE_DIRS = {
+    "ulike-air-10-razor-bundle",
+    "ulike-air-10-deluxe",
+}
 
-def build(src_path, out_path):
+
+def build(src_path, out_path, scene=None):
     img = Image.open(src_path).convert("RGB")
-    canvas = imagekit.composite(img, W, H)
+    canvas = imagekit.composite(img, W, H, scene=scene)
     canvas.save(out_path, "JPEG", quality=QUALITY, optimize=True, progressive=True)
     return canvas
 
@@ -52,8 +62,9 @@ def main():
         if not os.path.exists(src):
             continue
         out = os.path.join(d, OUT_NAME)
-        canvas = build(src, out)
-        mode = "scene" if imagekit.is_scene_shot(Image.open(src).convert("RGB")) else "studio"
+        forced = name in SCENE_DIRS
+        canvas = build(src, out, scene=True if forced else None)
+        mode = "scene" if (forced or imagekit.is_scene_shot(Image.open(src).convert("RGB"))) else "studio"
         made.append((name, mode, canvas.size, os.path.getsize(out)))
 
     for name, mode, size, size_b in made:

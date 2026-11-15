@@ -6,7 +6,7 @@ date: 2026-11-15
 author: "Ryan Mitchell"
 ---
 
-![The Ulike Air 10 bundle with its safety glasses, razor and the retail box](/images/reviews/ulike-air-10-razor-bundle/lead.jpg)
+![A model in a bright bathroom using a long-handle razor on her lower leg under the headline "Prep Hard-to-Reach Areas with Ease", with the Ulike Air 10 resting on the white ledge of the bathtub beside her](/images/reviews/ulike-air-10-razor-bundle/lead.jpg)
 
 Amazon currently carries three separate listings for what is, mechanically, the same purple handset. All three are the Air 10, all three share the model number UI20 DB, and all three are sold by Ulike. What changes between them is the box: the bare device, the version bundled with a long-handle razor, and the Deluxe version with a pink leather case and a full accessory set. The listing photographs also disagree with each other about timelines and results.
 
@@ -32,9 +32,9 @@ This listing is the Air 10 handset plus a long-handle razor. The manufacturer's 
 
 Two things stand out immediately. First, this listing carries 55 ratings against more than 3,500 for the standalone device, so its 4.3-star figure is statistically thin in a way the base listing's is not. Second, the listing does not publish an itemised "what's in the box" list, so anyone buying on the strength of the accessories should read the product photographs carefully rather than trust a manifest that is not written down.
 
-![The Air 10 bundle shown with a long-handle razor for shaving hard-to-reach areas before a treatment session](/images/reviews/ulike-air-10-razor-bundle/pick-1.jpg)
+![The Ulike Air 10 bundle with its safety glasses, the long-handle razor and the retail box](/images/reviews/ulike-air-10-razor-bundle/pick-1.jpg)
 
-The one place the photographs are less precise than the copy is worth flagging. The listing's first bullet describes a long-handle razor, and one lifestyle shot shows one in use. But the kit layout photograph shows the handset next to a compact detachable razor head and a drawstring pouch, rather than a long handle, so the listing photographs alone do not settle which razor ships in the box. If you are buying this bundle specifically for the long handle, it is worth confirming what arrives before you rely on it for hard-to-reach areas.
+The one place the listing's photography disagrees with itself is worth flagging. The first bullet describes a long-handle razor, and the marketing graphic that opens this review shows exactly that: a transparent long-handle razor with a multi-blade head being drawn along a lower leg. The product photograph above shows a long-handle razor as well, positioned next to the handset and the safety glasses. The kit layout photograph further down is the odd one out, showing a compact razor with a short, rounded grip beside a drawstring pouch and no long handle in sight. So two of the listing's three photographs show a long-handle razor and one does not. If the long handle is the reason you are buying this bundle, it is worth checking what actually arrives in the box before you rely on it for hard-to-reach areas.
 
 ## Why a razor belongs in an IPL bundle
 
@@ -42,9 +42,9 @@ The manufacturer's argument for the razor is sound, and it is worth stating plai
 
 IPL works by sending light at melanin in the hair shaft, and the light has to reach the follicle. Hair that is long enough to stand away from the skin catches the light and turns it into heat on the surface instead of letting it travel down to the root. It also simply gets in the way of a treatment window that has to sit flush against the skin. So the workflow the manufacturer describes — shave first, then treat — is not a marketing convenience, it is the correct order of operations.
 
-Where the razor earns its place is the second half of the argument. A standard razor asks you to bend, twist and reach, and it does not do either of those things well on a lower back, between the shoulder blades, or around the inner thigh. A long-handle razor is the cheapest possible fix for that specific problem, and the listing's own lifestyle shot shows a woman seated on a bed with the long-handle razor in hand and the Air 10 resting beside her.
+Where the razor earns its place is the second half of the argument. A standard razor asks you to bend, twist and reach, and it does not do either of those things well on a lower back, between the shoulder blades, or around the inner thigh. A long-handle razor is the cheapest possible fix for that specific problem, and the listing's own lifestyle photograph, the one that opens this review, shows a woman working a long-handle razor along her lower leg with the Air 10 resting on the white ledge of the bathtub beside her.
 
-![The Air 10 kit layout showing the handset, safety glasses, a detachable razor head, a drawstring storage pouch and the retail packaging](/images/reviews/ulike-air-10-razor-bundle/pick-2.jpg)
+![The Air 10 kit layout showing the handset, safety glasses, a compact razor with a short handle, a drawstring storage pouch and the retail packaging](/images/reviews/ulike-air-10-razor-bundle/pick-2.jpg)
 
 ## What the three Air 10 listings actually say
 
@@ -55,7 +55,7 @@ The most useful thing we found was that the three listings describe the same dev
 | **Model number** | UI20 DB | UI20 DB | UI20 DB |
 | **Amazon rating** | 4.4 from 3,555+ | 4.3 from 55 | 4.5 from 312 |
 | **Written box list** | Not published | Not published | Published, 5 items |
-| **Long-handle razor** | Not stated | Yes, stated in bullet one | No, a standard razor is listed |
+| **Long-handle razor** | Not stated, and the product photo shows a compact razor | Yes, stated in bullet one and shown in two of the three photos | No, the listed shaving razor is a compact one |
 | **Safety glasses** | Shown in photos | Shown in photos | Listed as an included item |
 | **Storage case** | Retail box only | Retail box plus a drawstring pouch in photos | Pink leather case, listed |
 | **Power adapter** | Not stated | Not stated | Listed as an included item |
