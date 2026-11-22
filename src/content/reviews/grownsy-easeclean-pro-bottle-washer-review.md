@@ -6,18 +6,18 @@ date: 2026-11-16
 author: "Ethan Carter"
 ---
 
-![The white GROWNSY EaseClean Pro in a studio view, its rose-gold oval bezel around the black digital touch panel, the transparent viewing window in the side wall and the translucent refill tank at the rear](/images/reviews/grownsy-easeclean-pro-bottle-washer/lead.jpg)
+![The warm ivory GROWNSY EaseClean Pro in a studio view, its blush-pink oval bezel around the black digital touch panel, the transparent viewing window in the side wall and the translucent refill tank at the rear](/images/reviews/grownsy-easeclean-pro-bottle-washer/lead.jpg)
 
 The standard EaseClean washer does the four jobs that matter — wash, sterilize, dry, store — and leaves three things to you: you cannot see what is happening inside, you cannot ask the machine to clean itself, and you have to carry the water tank with two hands. The GROWNSY EaseClean Pro is the version of the same machine that answers all three, and it is the listing that most parents end up looking at first, because "visible cleaning" is the feature name that does the selling.
 
 This is a single-product review. It is based on the manufacturer's published specifications, the aggregated verified-buyer ratings on the listing, and the clinical and public-health research on infant-feeding-item hygiene. We did not perform hands-on testing of this product. Our full method is on the [Our Method](/our-method/) page, and every source we relied on is listed at the bottom.
 
-One thing to know before reading anything else, because it changes how you should read the rating. The EaseClean Pro and the standard [EaseClean](/reviews/grownsy-easeclean-bottle-washer-review/) are sold under the same parent listing on Amazon, so both draw on a single shared rating pool of 4.5 stars from 1,566 ratings. The buyer feedback you read on one listing is the feedback on both. The Pro listing also publishes a broader feature set and a different finish, and the standard listing displays a "Newer Version Available" banner, so the Pro is the later specification of the same product family rather than a separate product with its own review history.
+One thing to know before reading anything else, because it changes how you should read the rating. The EaseClean Pro and the standard [EaseClean](/reviews/grownsy-easeclean-bottle-washer-review/) are sold under the same parent listing on Amazon, so both draw on a single shared rating pool of 4.5 stars from 1,579 ratings. The buyer feedback you read on one listing is the feedback on both. The Pro listing also publishes a broader feature set and a different finish — the machine it shows is a warm ivory body that Amazon's own colour selector labels "Beige", while the standard listing opens on the white one — and the standard listing displays a "Newer Version Available" banner, so the Pro is the later specification of the same product family rather than a separate product with its own review history.
 
 ## What the EaseClean Pro actually is
 
 - **Type:** Countertop baby bottle washer, sterilizer, dryer and storage cabinet
-- **Finish:** White body with a rose-gold oval bezel around the black touch panel, a transparent viewing window in the side wall, and a translucent refill tank with a handle at the rear
+- **Finish:** Warm ivory body — the colour Amazon's own selector labels "Beige" for this listing — with a matte blush-pink oval bezel around the black touch panel, a transparent viewing window in the side wall, and a translucent refill tank with a handle at the rear
 - **Item model number:** This listing does not publish one; the family model number published on the standard EaseClean listing is ZMW-STHB01-3
 - **Published dimensions:** 16.38 x 15.98 x 11.65 inches — these are the listing's package dimensions, and no separate product dimensions are given
 - **Weight:** 13.97 lb
@@ -32,7 +32,7 @@ One thing to know before reading anything else, because it changes how you shoul
 - **Handling:** Ergonomic one-hand refill water tank, and a safety sensor that pauses the cycle when the lid is opened
 - **Power:** 120V, 60Hz, designed for North American power
 - **In the box:** The machine, 60 Grownsy detergent tablets, 5 descaling tablets, and a 3-year warranty
-- **Rating:** 4.5 out of 5 stars from 1,566 aggregated Amazon ratings, shared with the standard EaseClean listing
+- **Rating:** 4.5 out of 5 stars from 1,579 aggregated Amazon ratings, shared with the standard EaseClean listing
 - **Our score:** 8.5/10
 
 The headline numbers here are the same family of figures as the standard model — 24,000 Pa, 26 jets, 212°F, 99.99%, 99.9%, 72 hours — and they are manufacturer claims in exactly the same way. What genuinely differs is the hardware around them.
@@ -43,7 +43,7 @@ This is the feature the Pro is named for, and it is a real engineering addition 
 
 ![The GROWNSY EaseClean Pro on a kitchen island beside a mother and young child, its transparent side window showing a bottle inside and the display reading 19](/images/reviews/grownsy-easeclean-pro-bottle-washer/pick-1.jpg)
 
-![A user video frame of the white EaseClean Pro on a black granite counter against a mosaic tile backsplash, with a person's hands resting either side of the clear dome](/images/reviews/grownsy-easeclean-pro-bottle-washer/pick-4.jpg)
+![A user video frame of the EaseClean Pro on a black granite counter against a mosaic tile backsplash, with a person's hands resting either side of the clear dome](/images/reviews/grownsy-easeclean-pro-bottle-washer/pick-4.jpg)
 
 Why this matters more than it sounds: the standard washer's failure mode is a load you simply cannot inspect. If a bottle is still dirty at the end of a cycle, you find out by looking at it later with your own eyes, in the sink, at a time when you have already spent the cycle. With a window, the question gets answered while the answer is still actionable — a bottle that is not covered by a jet is visible while you can still re-aim it, and residue on the basket is visible while you can still re-run it.
 
@@ -124,7 +124,7 @@ Pros
 - ✔ Six named presets with published timings, from a 19-minute Fast Wash to a 29-minute Standard Wash
 - ✔ 212°F steam, hot-air drying and a HEPA-filtered 72-hour storage cabinet
 - ✔ 60 detergent tablets and a 3-year warranty included
-- ✔ The best-documented ownership path of the two listings, on a 1,566-rating buyer pool
+- ✔ The best-documented ownership path of the two listings, on a 1,579-rating buyer pool
 
 Cons
 - ✘ 13.97 lb and a large package footprint, for the same 4–8 bottle capacity as the standard model
@@ -153,7 +153,7 @@ Skip it if you need documented independent performance figures. Buying the Pro i
 That figure is the manufacturer's claim for its 212°F steam cycle. It is not an independently verified result for this machine, and no independent laboratory test of the EaseClean Pro has been published that we could find. The underlying method — steam at 100°C — is well established; the specific percentage on the listing is a claim.
 
 ### What is the difference between the EaseClean and the EaseClean Pro?
-They are the same product family sold under two listings, sharing one rating pool of 1,566 ratings. The Pro adds a transparent viewing window, a one-touch self-cleaning cycle, descaling tablets, colour-coded night lighting, a one-hand refill tank, a lid-open safety pause, and publishes 11 modes with preset timings; the standard listing specifies four programs across nine modes and has no self-clean cycle or descaling tablets. We review the standard model separately.
+They are the same product family sold under two listings, sharing one rating pool of 1,579 ratings. The Pro adds a transparent viewing window, a one-touch self-cleaning cycle, descaling tablets, colour-coded night lighting, a one-hand refill tank, a lid-open safety pause, and publishes 11 modes with preset timings; the standard listing specifies four programs across nine modes and has no self-clean cycle or descaling tablets. We review the standard model separately.
 
 ### Is the visible window a gimmick or a real improvement?
 It is a real improvement in one specific sense: it converts a machine you have to trust into a machine you can check. It does not change the cleaning physics, and it is not a substitute for the detergent and the wash cycle itself.
@@ -171,13 +171,13 @@ That depends on what you are buying. If you want fewer nights at the sink, the v
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 <a class="cta" href="https://www.amazon.com/stores/page/7A947F79-0AD8-4391-8FB5-99734DAC4973?maas=maas_adg_api_584440325643011840_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_S7VxVauIwWGgP5yONC&aa_adgroupid=lv_jTPpIcQfDBiY73r7pr&aa_creativeid=lv_kTXzitgYCW2XMICWAL" target="_blank" rel="noopener sponsored nofollow">Browse the full GROWNSY range on Amazon</a>
-<p class="cta-note">The GROWNSY store page lists every current device from the brand, including both bottle washers and the baby food maker.</p>
+<p class="cta-note">The GROWNSY store page groups the brand's range by category — bottle washers, baby food makers, warmers and sterilizers among them — so you can see what else GROWNSY sells.</p>
 
 ## The bottom line
 
 The EaseClean Pro is the better-specified machine of the two listings, and the specification is not marketing filler. A transparent window in the chamber wall, a colour-coded night light, a one-hand refill tank, a lid-open safety pause, a one-touch self-cleaning cycle and descaling tablets in the box are six concrete answers to six specific problems in bottle-washing ownership — three of them about what you can see and three about what the machine does for itself.
 
-What it does not do is earn new evidence. Every percentage on the listing — 99.99%, 99.9%, 24,000 Pa — is a manufacturer claim, and it is the same claim set as the standard model. The shared 1,566-rating pool is a decent read on buyer experience but is not a test result. The honest way to judge this product is as a well-engineered convenience appliance with a credible thermal and filtration mechanism, whose selling point is that it shows its work.
+What it does not do is earn new evidence. Every percentage on the listing — 99.99%, 99.9%, 24,000 Pa — is a manufacturer claim, and it is the same claim set as the standard model. The shared 1,579-rating pool is a decent read on buyer experience but is not a test result. The honest way to judge this product is as a well-engineered convenience appliance with a credible thermal and filtration mechanism, whose selling point is that it shows its work.
 
 <a class="cta" href="https://www.amazon.com/dp/B0H94K3F3M?lv=shuf&aa_adgroupid=lv_LOxxJklrIb0BRlLp6J&maas=maas_adg_api_584440325643011840_static_9_129&aa_campaignid=lv_V9CkyBOrO5g71mO9Dx&tag=maas&aa_creativeid=lv_bs0AWluOsZHR718STd&channelId=404&ref_=aa_maas&plpRedirect=mhFallback" target="_blank" rel="noopener sponsored nofollow">View the GROWNSY EaseClean Pro on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
@@ -188,4 +188,4 @@ What it does not do is earn new evidence. Every percentage on the listing — 99
 - Haque R, Nurunnahar S, Islam MS, Sayeed T, Habib A, Salje H, Winch PJ, Dreibelbis R. "Cleaning Methods and Microbial Safety of Child Feeding Equipment: A Systematic Review." Maternal & Child Nutrition, 2026;22(3):e70207 — water-only rinsing consistently ineffective; soap plus brushing performed better; chlorine-based disinfection substantially reduced contamination, with effects depending on concentration and contact time
 - Rothstein JD, Mendoza AL, Cabrera LZ, Pachas J, Calderon M, Pajuelo MJ, Caulfield LE, Winch PJ, Gilman RH. "Household Contamination of Baby Bottles and Opportunities to Improve Bottle Hygiene in Peri-Urban Lima, Peru." The American Journal of Tropical Medicine and Hygiene, 2019;100(4):988-997 — faecal bacteria detected in 43.8% of sampled bottles and 21.7% of caregiver hands; brushing was a named part of an improved hygiene intervention
 - Haston JC, Miko S, Cope JR, et al. "Cronobacter sakazakii Infections in Two Infants Linked to Powdered Infant Formula and Breast Pump Equipment — United States, 2021 and 2022." MMWR Morbidity and Mortality Weekly Report, 2023;72(9):223-226 — two infant infections traced to contaminated opened powdered formula and to breast-pump equipment
-- Amazon — manufacturer listing for the GROWNSY EaseClean Pro (B0H94K3F3M), including published specifications, the six-preset mode graphic with its timings, the self-cleaning cutaway module, the aggregated 4.5-star rating from 1,566 ratings, and the note that this listing and the standard EaseClean listing share one parent product and therefore one rating pool (accessed November 2026)
+- Amazon — manufacturer listing for the GROWNSY EaseClean Pro (B0H94K3F3M), including published specifications, the six-preset mode graphic with its timings, the self-cleaning cutaway module, the aggregated 4.5-star rating from 1,579 ratings, and the note that this listing and the standard EaseClean listing share one parent product and therefore one rating pool (accessed November 2026)

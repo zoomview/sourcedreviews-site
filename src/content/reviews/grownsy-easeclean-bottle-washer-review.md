@@ -12,11 +12,12 @@ Bottle washing is the least glamorous job in a house with a newborn, and it is t
 
 This is a single-product review. It is based on the manufacturer's published specifications, the aggregated verified-buyer ratings on the listing, and the clinical and public-health research on infant-feeding-item hygiene. We did not perform hands-on testing of this product. Our full method is on the [Our Method](/our-method/) page, and every source we relied on is listed at the bottom.
 
-One note on how this listing relates to the [EaseClean Pro](/reviews/grownsy-easeclean-pro-bottle-washer-review/) we review separately: the two are sold from the same parent listing on Amazon, so they share a single rating pool of 4.5 stars from 1,566 ratings, and the buyer's feedback you read on one is the buyer's feedback on both. The Pro listing adds features — visible windows, a self-cleaning cycle, descaling tablets, a night-light mode and a one-hand refill tank — that this listing does not mention. Amazon's own copy on this page flags that a newer version is available, which is consistent with the Pro being the later specification.
+One note on how this listing relates to the [EaseClean Pro](/reviews/grownsy-easeclean-pro-bottle-washer-review/) we review separately: the two are sold from the same parent listing on Amazon, so they share a single rating pool of 4.5 stars from 1,579 ratings, and the buyer's feedback you read on one is the buyer's feedback on both. The Pro listing adds features — visible windows, a self-cleaning cycle, descaling tablets, a night-light mode and a one-hand refill tank — that this listing does not mention. Amazon's own copy on this page flags that a newer version is available, which is consistent with the Pro being the later specification.
 
 ## What the EaseClean actually is
 
 - **Type:** Countertop baby bottle washer, sterilizer, dryer and storage cabinet
+- **Colour:** White — the variation this listing opens on, and the one shown in the images below
 - **Item model number:** ZMW-STHB01-3
 - **Size and weight:** 9.84 x 13.39 x 16.14 inches, 11 lb
 - **Functions:** Wash, steam-sterilize, hot-air dry, and store
@@ -32,12 +33,12 @@ One note on how this listing relates to the [EaseClean Pro](/reviews/grownsy-eas
 - **Capacity:** 4–8 bottles plus pump parts, pacifiers and sippy cups on a double-layer basket
 - **Power:** 120V, 60Hz, designed for North American power
 - **In the box:** The machine, 60 Grownsy detergent tablets, and a 3-year warranty
-- **Rating:** 4.5 out of 5 stars from 1,566 aggregated Amazon ratings
+- **Rating:** 4.5 out of 5 stars from 1,579 aggregated Amazon ratings
 - **Our score:** 8.0/10
 
 Two things about those numbers need context before anything else.
 
-First, the 4.5-star rating is not this listing's alone. Because the EaseClean and the EaseClean Pro sit under the same parent product on Amazon, both draw on the same 1,566-rating pool. If you have read buyer feedback on one of them, you have read it on both.
+First, the 4.5-star rating is not this listing's alone. Because the EaseClean and the EaseClean Pro sit under the same parent product on Amazon, both draw on the same 1,579-rating pool. If you have read buyer feedback on one of them, you have read it on both.
 
 Second, every headline figure above — 99.99% germ reduction, 99.9% particle removal, 24,000 Pa, the 86% water saving — is a manufacturer claim rather than an independently reproduced result. We treat them as claims throughout this review.
 
@@ -106,7 +107,7 @@ Pros
 - ✔ HEPA-filtered storage with a stated 72-hour window
 - ✔ Handles 4–8 bottles and pump parts in a single load
 - ✔ 60 detergent tablets and a 3-year warranty included
-- ✔ Backed by a large 1,566-rating buyer pool, which is unusually well documented for this category
+- ✔ Backed by a large 1,579-rating buyer pool, shared with the EaseClean Pro listing rather than counted twice
 
 Cons
 - ✘ The listing does not document transparent viewing windows, so watching a cycle in progress is not a stated feature
@@ -154,7 +155,7 @@ They are the same machine sold under two listings, and they share one rating poo
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 <a class="cta" href="https://www.amazon.com/stores/page/7A947F79-0AD8-4391-8FB5-99734DAC4973?maas=maas_adg_api_584440325643011840_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_S7VxVauIwWGgP5yONC&aa_adgroupid=lv_jTPpIcQfDBiY73r7pr&aa_creativeid=lv_kTXzitgYCW2XMICWAL" target="_blank" rel="noopener sponsored nofollow">Browse the full GROWNSY range on Amazon</a>
-<p class="cta-note">The GROWNSY store page lists every current device from the brand, including both bottle washers and the baby food maker.</p>
+<p class="cta-note">The GROWNSY store page groups the brand's range by category — bottle washers, baby food makers, warmers and sterilizers among them — so you can see what else GROWNSY sells.</p>
 
 ## The bottom line
 
@@ -171,4 +172,4 @@ What it does not do is prove itself. No independent laboratory evaluation of thi
 - Haque R, Nurunnahar S, Islam MS, Sayeed T, Habib A, Salje H, Winch PJ, Dreibelbis R. "Cleaning Methods and Microbial Safety of Child Feeding Equipment: A Systematic Review." Maternal & Child Nutrition, 2026;22(3):e70207 — water-only rinsing consistently ineffective; soap plus brushing performed better; chlorine-based disinfection substantially reduced contamination, with effects depending on concentration and contact time
 - Rothstein JD, Mendoza AL, Cabrera LZ, Pachas J, Calderon M, Pajuelo MJ, Caulfield LE, Winch PJ, Gilman RH. "Household Contamination of Baby Bottles and Opportunities to Improve Bottle Hygiene in Peri-Urban Lima, Peru." The American Journal of Tropical Medicine and Hygiene, 2019;100(4):988-997 — faecal bacteria detected in 43.8% of sampled bottles and 21.7% of caregiver hands; brushing was a named part of an improved hygiene intervention
 - Haston JC, Miko S, Cope JR, et al. "Cronobacter sakazakii Infections in Two Infants Linked to Powdered Infant Formula and Breast Pump Equipment — United States, 2021 and 2022." MMWR Morbidity and Mortality Weekly Report, 2023;72(9):223-226 — two infant infections traced to contaminated opened powdered formula and to breast-pump equipment
-- Amazon — manufacturer listing for the Grownsy EaseClean (B0D7ZS8NG3), including published specifications, the AquaJet system graphic, the aggregated 4.5-star rating from 1,566 ratings, and the note that this listing and the EaseClean Pro listing share one parent product and therefore one rating pool (accessed November 2026)
+- Amazon — manufacturer listing for the Grownsy EaseClean (B0D7ZS8NG3), including published specifications, the AquaJet system graphic, the aggregated 4.5-star rating from 1,579 ratings, and the note that this listing and the EaseClean Pro listing share one parent product and therefore one rating pool (accessed November 2026)

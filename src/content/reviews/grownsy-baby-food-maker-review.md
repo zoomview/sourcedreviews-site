@@ -12,7 +12,7 @@ Homemade baby food has two problems, and they are opposites. The first is that i
 
 This is a single-product review. It is based on the manufacturer's published specifications, the aggregated verified-buyer ratings on the listing, and the clinical and public-health research on infant feeding and homemade baby food. We did not perform hands-on testing of this product. Our full method is on the [Our Method](/our-method/) page, and every source we relied on is listed at the bottom.
 
-Unlike the two bottle washers, this product stands on its own. It has its own parent listing, its own rating pool of 4.6 stars from 2,885 ratings, and its own specification — nothing in this review is shared with the washers.
+Unlike the two bottle washers, this product stands on its own. It has its own parent listing, its own rating pool of 4.6 stars from 2,908 ratings, and its own specification — nothing in this review is shared with the washers.
 
 ## What the baby food maker actually is
 
@@ -26,7 +26,7 @@ Unlike the two bottle washers, this product stands on its own. It has its own pa
 - **Mixing modes:** Automatic or manual, chosen from the digital control panel
 - **Sizing:** A single 300 ml jug — one child's portion, or one or two meals of batch prep
 - **In the box:** The base unit, jug and steaming basket, plus a recipe book; the listing specifies a 1-year warranty, 24/7 customer service and lifetime technical support
-- **Rating:** 4.6 out of 5 stars from 2,885 aggregated Amazon ratings
+- **Rating:** 4.6 out of 5 stars from 2,908 aggregated Amazon ratings
 - **Our score:** 7.9/10
 
 Two details in that list deserve a flag straight away.
@@ -119,7 +119,7 @@ Pros
 - ✔ Built-in sterilizer mode cleans up the same way it cooks
 - ✔ Compact footprint — blender container is 4.13 inches high and 4.17 inches in diameter
 - ✔ Recipe book included, plus 1-year warranty, 24/7 customer service and lifetime technical support
-- ✔ Backed by its own 2,885-rating buyer pool, the largest of any product in this brand's range
+- ✔ Backed by its own 2,908-rating buyer pool, larger than the pool the two bottle washers share
 
 Cons
 - ✘ A 300 ml bowl means single-portion cooking rather than batch prep
@@ -168,7 +168,7 @@ The evidence is genuinely mixed, and the honest version is more useful than the 
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 <a class="cta" href="https://www.amazon.com/stores/page/7A947F79-0AD8-4391-8FB5-99734DAC4973?maas=maas_adg_api_584440325643011840_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_S7VxVauIwWGgP5yONC&aa_adgroupid=lv_jTPpIcQfDBiY73r7pr&aa_creativeid=lv_kTXzitgYCW2XMICWAL" target="_blank" rel="noopener sponsored nofollow">Browse the full GROWNSY range on Amazon</a>
-<p class="cta-note">The GROWNSY store page lists every current device from the brand, including both bottle washers and this baby food maker.</p>
+<p class="cta-note">The GROWNSY store page groups the brand's range by category — bottle washers, baby food makers, warmers and sterilizers among them — so you can see what else GROWNSY sells.</p>
 
 ## The bottom line
 
@@ -187,4 +187,4 @@ If you have reached the solids stage and want a weekday variety of textures from
 - Centers for Disease Control and Prevention — "How to Clean, Sanitize, and Store Infant Feeding Items," archived copy of the CDC WASH guidance page (the safest method of mixing formula is by shaking or swirling in the feeding bottle; blenders can be difficult to clean and blenders used to prepare infant formula have been linked to illnesses among babies; wash feeding items with soap and a brush, rinse, and air-dry without rubbing with a towel)
 - Pasdar N, Mostashari P, Greiner R, Khelfa A, Rashidinejad A, Eshpari H, Vale JM, Gharibzahedi SMT, Roohinejad S. "Advancements in Non-Thermal Processing Technologies for Enhancing Safety and Quality of Infant and Baby Food Products: A Review." Foods, 2024;13(17):2659 — thermal treatments are commonly used to ensure microbiological safety in infant and baby foods, but can reduce sensory quality, reduce thermosensitive nutrients and lead to chemical contaminant formation, with furan and 5-hydroxymethyl-2-furfural identified among process-induced toxicants; non-thermal technologies offer comparable pathogen destruction with reduced toxicant formation
 - Bernal MJ, Roman S, Klerks M, Haro-Vicente JF, Sanchez-Siles LM. "Are Homemade and Commercial Infant Foods Different? A Nutritional Profile and Food Variety Analysis in Spain." Nutrients, 2021;13(3):777 — 30 mothers of children aged 6 to 18 months, 3-day weighed food diaries with chemical analysis; homemade meals provided significantly higher protein and fibre and a significantly greater number of different vegetables than commercial meals (3.7 vs 3.3), homemade meals for infants provided significantly lower energy, homemade and commercial meals were equally characterised by soft texture, and the authors call for clear homemade-preparation guidelines and promotion of food variety in taste and texture
-- Amazon — manufacturer listing for the Grownsy Baby Food Maker, Steamer and Blender (B0DGL879NT), including the model number BFP-5800E, the 300 ml Tritan bowl specification, blender container dimensions, mixing-mode options, recipe book and warranty terms, and the aggregated 4.6-star rating from 2,885 ratings (accessed November 2026)
+- Amazon — manufacturer listing for the Grownsy Baby Food Maker, Steamer and Blender (B0DGL879NT), including the model number BFP-5800E, the 300 ml Tritan bowl specification, blender container dimensions, mixing-mode options, recipe book and warranty terms, and the aggregated 4.6-star rating from 2,908 ratings (accessed November 2026)
