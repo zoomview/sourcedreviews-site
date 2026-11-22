@@ -309,6 +309,27 @@ declare module 'astro:content' {
   collection: "reviews";
   data: InferEntrySchema<"reviews">
 } & { render(): Render[".md"] };
+"grownsy-baby-food-maker-review.md": {
+	id: "grownsy-baby-food-maker-review.md";
+  slug: "grownsy-baby-food-maker-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"grownsy-easeclean-bottle-washer-review.md": {
+	id: "grownsy-easeclean-bottle-washer-review.md";
+  slug: "grownsy-easeclean-bottle-washer-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"grownsy-easeclean-pro-bottle-washer-review.md": {
+	id: "grownsy-easeclean-pro-bottle-washer-review.md";
+  slug: "grownsy-easeclean-pro-bottle-washer-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
 "shark-flexstyle-hd430-review.md": {
 	id: "shark-flexstyle-hd430-review.md";
   slug: "shark-flexstyle-hd430-review";
