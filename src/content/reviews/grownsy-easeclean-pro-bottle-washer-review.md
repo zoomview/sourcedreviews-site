@@ -23,7 +23,7 @@ One thing to know before reading anything else, because it changes how you shoul
 - **Weight:** 13.97 lb
 - **Functions:** Wash, steam-sterilize, hot-air dry, and store
 - **Cleaning modes:** 11, built around six named presets
-- **Published preset timings:** Fast Wash 19 min, Standard Wash 29 min, Sterilization 10 min, Drying & Storage 60 min drying with 72 hours of sterile storage, plus a one-touch Self Cleaning cycle and a Night Light mode
+- **Published preset timings:** Fast Wash 19 min, Standard Wash 29 min, Sterilization 10 min, Drying & Storage 60 min drying with 72 hours of sterile storage, plus a one-touch Self Cleaning cycle and a Night Light mode — read from the listing's mode graphic, which is the only place these minutes appear
 - **Water delivery:** 26 spray jets at a manufacturer rating of 24,000 Pa, with 140°F hot water
 - **Sterilizing:** 212°F steam, claimed to eliminate 99.99% of bacteria
 - **Drying:** Hot-air drying after the steam stage
@@ -53,14 +53,14 @@ The transparent window also has an effect on trust that is hard to measure but e
 
 The mode graphic on this listing is the most useful thing the manufacturer publishes, because it converts marketing language into minutes.
 
-![The EaseClean Pro mode graphic listing Fast Wash 19-Min, Standard Wash 29-Min, Sterilization 10-Min, Drying & Storage 60-Min and 72H Sterile Storage, alongside Self Cleaning and Night Light modes](/images/reviews/grownsy-easeclean-pro-bottle-washer/pick-2.jpg)
+![The EaseClean Pro mode graphic showing six modes around the black oval touch panel, each in its own colour — Fast Wash 19-Min in blue, Sterilization 10-Min in purple, Self Cleaning in green, Night Light in amber, Standard Wash 29-Min in cyan, and Drying & Storage 60-Min with 72H Sterile Storage in pink](/images/reviews/grownsy-easeclean-pro-bottle-washer/pick-2.jpg)
 
 - **Fast Wash — 19 min.** The short cycle for a couple of bottles.
 - **Standard Wash — 29 min.** The default for a mixed load.
 - **Sterilization — 10 min.** The steam run.
 - **Drying & Storage — 60 min drying, 72 h sterile storage.** The closing cycle.
 - **Self Cleaning — one touch.** The cycle for the machine rather than the load.
-- **Night Light — status at a glance.** Colour-coded, not a program.
+- **Night Light — status at a glance.** A lighting mode, not one of the four timed cleaning programs.
 
 That is six named presets within a panel of 11 modes, which lines up with the listing's claim of 11 cleaning modes including custom settings. The distinction worth holding on to is between the first four, which process bottles, and the fifth, which processes the machine — an addition the standard EaseClean does not have at all.
 
@@ -77,6 +77,8 @@ The caveat is that the listing gives no interval and no protocol for the self-cl
 ## Night Light mode: built for the 2am feed
 
 The colour-coded night lighting is a small feature with an unusually clear purpose. The listing describes soft, non-glare indicator lights that show the status of a cycle from across the room: blue for washing, orange for sterilizing or drying, and white for completion.
+
+One detail is worth flagging, because the listing offers two different colour schemes and does not reconcile them. The written copy describes three colours that track the stage of the cycle — washing, sterilizing or drying, and completion. The mode graphic on the same page, reproduced above, instead gives each of the six modes its own colour, with the panel lit in matching wedges: Fast Wash in blue, Sterilization in purple, Self Cleaning in green, Night Light in amber, Standard Wash in cyan and Drying & Storage in pink. There is no orange and no white anywhere in the graphic. Whether the machine shows one scheme or the other in practice is not something the listing settles, so treat the exact colours as something to check on the unit rather than as a specification to rely on.
 
 That is a real answer to a real problem. The reason parents re-wash bottles at 2am is that they cannot tell whether the previous load is finished. A machine that announces its state in colour, without a chime and without a phone notification, removes the reason to open the lid and check — and opening the lid mid-cycle is exactly the moment when the safety pause matters.
 
@@ -119,7 +121,7 @@ The self-cleaning cycle is the feature that the research says nothing about at a
 Pros
 - ✔ Transparent viewing window in the chamber wall, so you can watch a cycle without opening the lid
 - ✔ One-touch self-cleaning cycle for the machine itself, plus 5 descaling tablets in the box
-- ✔ Colour-coded night lighting — blue for washing, orange for sterilizing or drying, white for complete
+- ✔ Colour-coded night lighting and a panel readable from across the room, with the manufacturer's copy describing blue for washing, orange for sterilizing or drying and white for complete
 - ✔ One-hand refill water tank and a safety sensor that pauses the cycle when the lid opens
 - ✔ Six named presets with published timings, from a 19-minute Fast Wash to a 29-minute Standard Wash
 - ✔ 212°F steam, hot-air drying and a HEPA-filtered 72-hour storage cabinet
