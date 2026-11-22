@@ -164,7 +164,7 @@ The listing describes a built-in sterilizer mode, and the jug and accessories ar
 ### Is homemade baby food actually better for my baby?
 The evidence is genuinely mixed, and the honest version is more useful than the marketing version. A Spanish analysis of homemade versus commercial infant foods found homemade meals provided significantly higher protein and fibre and a greater variety of vegetables (3.7 versus 3.3 different vegetables), but lower energy for infants, and no consistent overall evidence that homemade is nutritionally superior. Its conclusion was that clear preparation guidelines and attention to taste and texture variety are what matter — which is what this machine's recipe book and texture controls are aimed at.
 
-<a class="cta" href="https://www.amazon.com/dp/B0DGL879NT?lv=shuf&aa_adgroupid=lv_KwQESLtNyJyLmsckwt&maas=maas_adg_api_584440325643011840_static_9_129&aa_campaignid=lv_pVvwquf1wLAMSM2xrG&tag=maas&aa_creativeid=lv_nhRvG86FqYU8JHEpA5&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the Grownsy Baby Food Maker on Amazon</a>
+<a class="cta" href="https://www.amazon.com/dp/B0DGL879NT?lv=shuf&aa_adgroupid=lv_KwQESLtNyJyLmsckwt&maas=maas_adg_api_584440325643011840_static_9_129&aa_campaignid=lv_pVvwquf1wLAMSM2xrG&tag=maas&aa_creativeid=lv_nhRvQ86FqYU8JHEpA5&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the Grownsy Baby Food Maker on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 <a class="cta" href="https://www.amazon.com/stores/page/7A947F79-0AD8-4391-8FB5-99734DAC4973?maas=maas_adg_api_584440325643011840_static_9_129&ref_=aa_maas&tag=maas&aa_campaignid=lv_S7VxVauIwWGgP5yONC&aa_adgroupid=lv_jTPpIcQfDBiY73r7pr&aa_creativeid=lv_kTXzitgYCW2XMICWAL" target="_blank" rel="noopener sponsored nofollow">Browse the full GROWNSY range on Amazon</a>
@@ -178,7 +178,7 @@ Its limits are equally clear and equally honest. A 300 ml bowl is a single-porti
 
 If you have reached the solids stage and want a weekday variety of textures from one compact appliance, this is a well-built tool for it. If you want to cook in bulk on a weekend, buy a bigger blender and keep the pot.
 
-<a class="cta" href="https://www.amazon.com/dp/B0DGL879NT?lv=shuf&aa_adgroupid=lv_KwQESLtNyJyLmsckwt&maas=maas_adg_api_584440325643011840_static_9_129&aa_campaignid=lv_pVvwquf1wLAMSM2xrG&tag=maas&aa_creativeid=lv_nhRvG86FqYU8JHEpA5&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the Grownsy Baby Food Maker on Amazon</a>
+<a class="cta" href="https://www.amazon.com/dp/B0DGL879NT?lv=shuf&aa_adgroupid=lv_KwQESLtNyJyLmsckwt&maas=maas_adg_api_584440325643011840_static_9_129&aa_campaignid=lv_pVvwquf1wLAMSM2xrG&tag=maas&aa_creativeid=lv_nhRvQ86FqYU8JHEpA5&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the Grownsy Baby Food Maker on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ## Sources cited in this article
