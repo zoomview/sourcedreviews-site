@@ -330,6 +330,27 @@ declare module 'astro:content' {
   collection: "reviews";
   data: InferEntrySchema<"reviews">
 } & { render(): Render[".md"] };
+"resilia-aged-garlic-softgels-review.md": {
+	id: "resilia-aged-garlic-softgels-review.md";
+  slug: "resilia-aged-garlic-softgels-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"resilia-ceylon-cinnamon-review.md": {
+	id: "resilia-ceylon-cinnamon-review.md";
+  slug: "resilia-ceylon-cinnamon-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"resilia-oil-of-oregano-softgels-review.md": {
+	id: "resilia-oil-of-oregano-softgels-review.md";
+  slug: "resilia-oil-of-oregano-softgels-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
 "shark-flexstyle-hd430-review.md": {
 	id: "shark-flexstyle-hd430-review.md";
   slug: "shark-flexstyle-hd430-review";
