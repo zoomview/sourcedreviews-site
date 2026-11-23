@@ -106,7 +106,7 @@ Cons
 - ✘ Runs Android 15, one version behind the A1 models, and does not advertise the AI suite
 - ✘ No independent hands-on lab review of the US-market model exists
 
-<a class="cta" href="https://www.amazon.com/dp/B0HHDPVNK5?lv=shuf&aa_adgroupid=a04c60df45537decec904a8f977f222804aa0b12&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=e1b14d89fb624b47838c7805c3d8d47d&channelId=404&ref_=aa_maas&plpRedirect=mhFallback" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB 10 Gen 4 on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/xd6mw1t1acz3edp4" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB 10 Gen 4 on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ## Who should buy it
@@ -169,7 +169,7 @@ Two things to keep straight before you buy. No refresh rate is published, so you
 
 We would rate this a 7.5 out of 10. It is a genuinely well-built, thoughtfully configured tablet for a specific job, and if that job is a child's tablet or a first tablet, it is doing it better than the more expensive models in the range would.
 
-<a class="cta" href="https://www.amazon.com/dp/B0HHDPVNK5?lv=shuf&aa_adgroupid=a04c60df45537decec904a8f977f222804aa0b12&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=e1b14d89fb624b47838c7805c3d8d47d&channelId=404&ref_=aa_maas&plpRedirect=mhFallback" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB 10 Gen 4 on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/xd6mw1t1acz3edp4" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB 10 Gen 4 on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ## Sources cited in this article

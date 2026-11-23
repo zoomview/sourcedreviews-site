@@ -63,7 +63,7 @@ Cons
 - ✘ Glossy display collects fingerprints in a way a matte finish would not
 - ✘ Stylus and keyboard are sold separately
 
-<a class="cta" href="https://www.amazon.com/dp/B0HHF1HH16?lv=shuf&aa_adgroupid=a04c60dfc8a6de1b783c47dbab0af718493c4bb1&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=9870bb37c6b443049587a8d636029da6&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 Plus on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/vwkzj9egrnfjxj1w" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 Plus on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 We covered this model on its own, including how the published reviews disagree and what that means for you: [TCL TAB A1 Plus Review](/reviews/tcl-tab-a1-plus-review/).
@@ -108,7 +108,7 @@ Cons
 - ✘ 650 nits is a peak figure; the typical rating reported elsewhere is 500
 - ✘ 16:10 aspect is less suited than 3:2 to reading documents and textbooks
 
-<a class="cta" href="https://www.amazon.com/dp/B0H4YXFYHL?lv=shuf&aa_adgroupid=a04c60df0f0226453df846a7bc05e3e7be54df9d&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=4fcb443f23a547538f0e999474636b75&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/1rrmx64xtmks67z6" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 Our full assessment of this model: [TCL TAB A1 Review](/reviews/tcl-tab-a1-review/).
@@ -152,7 +152,7 @@ Cons
 - ✘ Smaller 6,000mAh battery and an 18W charging ceiling, with no charger in the box
 - ✘ Runs Android 15, one version behind the A1 models
 
-<a class="cta" href="https://www.amazon.com/dp/B0HHDPVNK5?lv=shuf&aa_adgroupid=a04c60df45537decec904a8f977f222804aa0b12&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=e1b14d89fb624b47838c7805c3d8d47d&channelId=404&ref_=aa_maas&plpRedirect=mhFallback" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB 10 Gen 4 on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/xd6mw1t1acz3edp4" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB 10 Gen 4 on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 Our full assessment of this model: [TCL TAB 10 Gen 4 Review](/reviews/tcl-tab-10-gen-4-review/).
@@ -201,7 +201,7 @@ Often, yes. The A1 shares the A1 Plus's build, battery, IP54 rating, software, a
 
 ### Does any TCL tablet come with a stylus?
 
-The standard TAB A1 and TAB A1 Plus do not. The T-Pen 2, which registers 4,096 levels of pressure, is bundled with the separate NxTPAPER edition of the A1 and sold on its own for the standard models. The TAB 10 Gen 4 has no stylus support in the box either.
+The standard TAB A1 and TAB A1 Plus do not. The T-Pen 2, which registers 4,096 levels of pressure, is bundled with the separate NxTPAPER edition of the A1 and sold on its own for the standard models. The TAB 10 Gen 4 has no stylus support in the box either. One model outside this roundup also bundles a pen: the 14.3-inch NXTPAPER 14, which is a paper-like display tablet rather than a standard Android one, and which we cover separately in our [TCL NXTPAPER 14 Review](/reviews/tcl-nxtpaper-14-review/).
 
 ### Can I expand the storage on these tablets?
 
@@ -225,7 +225,7 @@ TCL has built a range where each model is defensible for a different person, and
 
 Our favorite of the three remains the A1 Plus, for one reason above all others: it is the only one whose display does not feel like the part that got cut.
 
-<a class="cta" href="https://www.amazon.com/dp/B0HHF1HH16?lv=shuf&aa_adgroupid=a04c60dfc8a6de1b783c47dbab0af718493c4bb1&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=9870bb37c6b443049587a8d636029da6&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 Plus on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/vwkzj9egrnfjxj1w" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 Plus on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ## Sources cited in this article

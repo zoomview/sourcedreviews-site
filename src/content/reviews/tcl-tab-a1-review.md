@@ -109,7 +109,7 @@ Cons
 - ✘ 16:10 is less comfortable than 3:2 for long-form reading
 - ✘ No independent hands-on review of the US-market standard A1 exists
 
-<a class="cta" href="https://www.amazon.com/dp/B0H4YXFYHL?lv=shuf&aa_adgroupid=a04c60df0f0226453df846a7bc05e3e7be54df9d&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=4fcb443f23a547538f0e999474636b75&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/1rrmx64xtmks67z6" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ## Who should buy it
@@ -164,7 +164,7 @@ Two things to keep straight before you buy. The stylus is not included, so if ha
 
 We would rate this a 7.8 out of 10. It is a well-built, well-equipped 11-inch tablet whose processor keeps it firmly in the reading, studying, and working column, and it is the version of TCL's tablet that most people in that column should actually buy.
 
-<a class="cta" href="https://www.amazon.com/dp/B0H4YXFYHL?lv=shuf&aa_adgroupid=a04c60df0f0226453df846a7bc05e3e7be54df9d&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=4fcb443f23a547538f0e999474636b75&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/1rrmx64xtmks67z6" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ## Sources cited in this article

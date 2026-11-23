@@ -96,7 +96,7 @@ Cons
 - ✘ Glossy screen collects fingerprints
 - ✘ Stylus and keyboard are sold separately
 
-<a class="cta" href="https://www.amazon.com/dp/B0HHF1HH16?lv=shuf&aa_adgroupid=a04c60dfc8a6de1b783c47dbab0af718493c4bb1&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=9870bb37c6b443049587a8d636029da6&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 Plus on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/vwkzj9egrnfjxj1w" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 Plus on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ## Who should buy it
@@ -149,7 +149,7 @@ The TCL TAB A1 Plus is the best-made tablet in this range and the one most likel
 
 The criticisms are real but narrow, and knowing which ones apply to you is the entire point. A 2023-vintage Snapdragon and Wi-Fi 5 are invisible to anyone reading, writing, and streaming, and decisive for anyone gaming or shuttling large files. The battery finding is the one we would weigh most heavily, because it cuts against the headline specification. If you can live with one older chip in exchange for the best screen TCL makes, this is the tablet to buy.
 
-<a class="cta" href="https://www.amazon.com/dp/B0HHF1HH16?lv=shuf&aa_adgroupid=a04c60dfc8a6de1b783c47dbab0af718493c4bb1&maas=maas_adg_api_577888808250237610_static_12_113&aa_campaignid=archer_a1af7f&tag=maas&aa_creativeid=9870bb37c6b443049587a8d636029da6&channelId=404&ref_=aa_maas&plpRedirect=mhFallback&th=1" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 Plus on Amazon</a>
+<a class="cta" href="https://pwiz.co/go/vwkzj9egrnfjxj1w" target="_blank" rel="noopener sponsored nofollow">View the TCL TAB A1 Plus on Amazon</a>
 <p class="cta-note">Prices and availability change daily on Amazon — check the listing for the current offer.</p>
 
 ## Sources cited in this article
