@@ -337,6 +337,13 @@ declare module 'astro:content' {
   collection: "reviews";
   data: InferEntrySchema<"reviews">
 } & { render(): Render[".md"] };
+"tcl-nxtpaper-14-review.md": {
+	id: "tcl-nxtpaper-14-review.md";
+  slug: "tcl-nxtpaper-14-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
 "tcl-tab-10-gen-4-review.md": {
 	id: "tcl-tab-10-gen-4-review.md";
   slug: "tcl-tab-10-gen-4-review";
