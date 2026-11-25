@@ -351,6 +351,27 @@ declare module 'astro:content' {
   collection: "reviews";
   data: InferEntrySchema<"reviews">
 } & { render(): Render[".md"] };
+"seed-ds-01-30-day-jar-review.md": {
+	id: "seed-ds-01-30-day-jar-review.md";
+  slug: "seed-ds-01-30-day-jar-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"seed-ds-01-30-day-refill-review.md": {
+	id: "seed-ds-01-30-day-refill-review.md";
+  slug: "seed-ds-01-30-day-refill-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"seed-ds-01-60-day-refill-review.md": {
+	id: "seed-ds-01-60-day-refill-review.md";
+  slug: "seed-ds-01-60-day-refill-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
 "shark-flexstyle-hd430-review.md": {
 	id: "shark-flexstyle-hd430-review.md";
   slug: "shark-flexstyle-hd430-review";
