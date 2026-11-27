@@ -309,6 +309,20 @@ declare module 'astro:content' {
   collection: "reviews";
   data: InferEntrySchema<"reviews">
 } & { render(): Render[".md"] };
+"goldenmate-1000va-ups-review.md": {
+	id: "goldenmate-1000va-ups-review.md";
+  slug: "goldenmate-1000va-ups-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
+"goldenmate-1500va-wall-mount-ups-review.md": {
+	id: "goldenmate-1500va-wall-mount-ups-review.md";
+  slug: "goldenmate-1500va-wall-mount-ups-review";
+  body: string;
+  collection: "reviews";
+  data: InferEntrySchema<"reviews">
+} & { render(): Render[".md"] };
 "grownsy-baby-food-maker-review.md": {
 	id: "grownsy-baby-food-maker-review.md";
   slug: "grownsy-baby-food-maker-review";
